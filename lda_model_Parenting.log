@@ -1,0 +1,1489 @@
+2019-03-18 11:11:26,392 : DEBUG : test
+2019-03-18 11:12:05,089 : DEBUG : Fast version of gensim.models.doc2vec is being used
+2019-03-18 11:12:05,102 : INFO : 'pattern' package not found; tag filters are not available for English
+2019-03-18 11:12:05,372 : DEBUG : backend module://ipykernel.pylab.backend_inline version unknown
+2019-03-18 11:14:59,070 : INFO : initializing corpus reader from Parenting.mm
+2019-03-18 11:14:59,074 : INFO : accepted corpus with 162502 documents, 1352594 features, 38819746 non-zero entries
+2019-03-18 11:18:01,565 : INFO : loading LdaModel object from LDA_Model_6.model
+2019-03-18 11:18:01,596 : INFO : loading expElogbeta from LDA_Model_6.model.expElogbeta.npy with mmap=None
+2019-03-18 17:11:26,922 : INFO : loading LdaModel object from LDA_Model_6.model
+2019-03-18 17:11:26,978 : INFO : loading expElogbeta from LDA_Model_6.model.expElogbeta.npy with mmap=None
+2019-03-18 17:11:37,972 : INFO : loading LdaModel object from LDA_Model.6.model
+2019-03-18 17:11:38,000 : INFO : loading expElogbeta from LDA_Model.6.model.expElogbeta.npy with mmap=None
+2019-03-18 17:11:41,823 : INFO : loading LdaModel object from LDA_Model.7.model
+2019-03-18 17:11:41,845 : INFO : loading expElogbeta from LDA_Model.7.model.expElogbeta.npy with mmap=None
+2019-03-18 17:11:55,788 : INFO : loading LdaModel object from LDA_Model.8.model
+2019-03-18 17:11:55,814 : INFO : loading expElogbeta from LDA_Model.8.model.expElogbeta.npy with mmap=None
+2019-03-18 17:11:56,053 : INFO : setting ignored attribute state to None
+2019-03-18 17:11:56,053 : INFO : setting ignored attribute id2word to None
+2019-03-18 17:11:56,053 : INFO : setting ignored attribute dispatcher to None
+2019-03-18 17:11:56,053 : INFO : loaded LDA_Model.8.model
+2019-03-18 17:11:56,075 : INFO : loading LdaModel object from LDA_Model.8.model.state
+2019-03-18 17:11:56,104 : INFO : loading sstats from LDA_Model.8.model.state.sstats.npy with mmap=None
+2019-03-18 17:11:56,312 : INFO : loaded LDA_Model.8.model.state
+2019-03-18 17:12:18,003 : INFO : loading LdaModel object from LDA_Model.9.model
+2019-03-18 17:12:18,039 : INFO : loading expElogbeta from LDA_Model.9.model.expElogbeta.npy with mmap=None
+2019-03-18 17:12:18,333 : INFO : setting ignored attribute state to None
+2019-03-18 17:12:18,333 : INFO : setting ignored attribute id2word to None
+2019-03-18 17:12:18,334 : INFO : setting ignored attribute dispatcher to None
+2019-03-18 17:12:18,334 : INFO : loaded LDA_Model.9.model
+2019-03-18 17:12:18,334 : INFO : loading LdaModel object from LDA_Model.9.model.state
+2019-03-18 17:12:18,334 : WARNING : failed to load state from LDA_Model.9.model.state: [Errno 2] No such file or directory: 'LDA_Model.9.model.state'
+2019-03-18 17:12:55,984 : INFO : loading LdaModel object from LDA_Model.9.model
+2019-03-18 17:12:56,008 : INFO : loading expElogbeta from LDA_Model.9.model.expElogbeta.npy with mmap=None
+2019-03-18 17:12:56,215 : INFO : setting ignored attribute state to None
+2019-03-18 17:12:56,215 : INFO : setting ignored attribute id2word to None
+2019-03-18 17:12:56,215 : INFO : setting ignored attribute dispatcher to None
+2019-03-18 17:12:56,215 : INFO : loaded LDA_Model.9.model
+2019-03-18 17:12:56,216 : INFO : loading LdaModel object from LDA_Model.9.model.state
+2019-03-18 17:12:56,216 : WARNING : failed to load state from LDA_Model.9.model.state: [Errno 2] No such file or directory: 'LDA_Model.9.model.state'
+2019-03-18 17:25:46,232 : INFO : loading LdaModel object from LDA_Model.9.model
+2019-03-18 17:25:46,256 : INFO : loading expElogbeta from LDA_Model.9.model.expElogbeta.npy with mmap=None
+2019-03-18 17:25:46,446 : INFO : setting ignored attribute state to None
+2019-03-18 17:25:46,446 : INFO : setting ignored attribute id2word to None
+2019-03-18 17:25:46,446 : INFO : setting ignored attribute dispatcher to None
+2019-03-18 17:25:46,446 : INFO : loaded LDA_Model.9.model
+2019-03-18 17:25:46,447 : INFO : loading LdaModel object from LDA_Model.9.model.state
+2019-03-18 17:25:46,467 : INFO : loading sstats from LDA_Model.9.model.state.sstats.npy with mmap=None
+2019-03-18 17:25:46,678 : INFO : loaded LDA_Model.9.model.state
+2019-03-18 17:25:49,036 : INFO : topic #2 (0.022): 0.014*"babi" + 0.010*"like" + 0.010*"milk" + 0.009*"get" + 0.008*"formula" + 0.008*"feed" + 0.008*"breastfeed" + 0.007*"one" + 0.007*"breast" + 0.006*"pump"
+2019-03-18 17:25:49,049 : INFO : topic #3 (0.022): 0.015*"get" + 0.013*"time" + 0.010*"thing" + 0.008*"one" + 0.008*"kid" + 0.007*"work" + 0.007*"go" + 0.007*"like" + 0.006*"would" + 0.006*"make"
+2019-03-18 17:25:49,062 : INFO : topic #39 (0.022): 0.030*"name" + 0.015*"like" + 0.011*"love" + 0.011*"kid" + 0.010*"girl" + 0.009*"one" + 0.008*"littl" + 0.007*"boy" + 0.007*"daughter" + 0.006*"get"
+2019-03-18 17:25:49,081 : INFO : topic #32 (0.022): 0.012*"like" + 0.011*"would" + 0.010*"kid" + 0.010*"know" + 0.010*"child" + 0.009*"think" + 0.008*"want" + 0.008*"make" + 0.008*"say" + 0.007*"get"
+2019-03-18 17:25:49,094 : INFO : topic #24 (0.022): 0.013*"would" + 0.010*"like" + 0.009*"go" + 0.008*"circumcis" + 0.008*"get" + 0.006*"time" + 0.006*"thing" + 0.006*"need" + 0.006*"know" + 0.006*"say"
+2019-03-18 17:25:49,107 : INFO : topic #35 (0.022): 0.017*"dog" + 0.015*"kid" + 0.009*"get" + 0.009*"teeth" + 0.008*"one" + 0.008*"go" + 0.008*"like" + 0.008*"old" + 0.008*"time" + 0.007*"year"
+2019-03-18 17:25:49,117 : INFO : topic #0 (0.022): 0.018*"eat" + 0.015*"get" + 0.013*"like" + 0.013*"kid" + 0.011*"food" + 0.010*"time" + 0.010*"make" + 0.008*"thing" + 0.008*"want" + 0.008*"tri"
+2019-03-18 17:25:49,131 : INFO : topic #15 (0.022): 0.017*"get" + 0.014*"toy" + 0.013*"play" + 0.012*"time" + 0.011*"kid" + 0.010*"room" + 0.010*"thing" + 0.009*"like" + 0.009*"old" + 0.009*"year"
+2019-03-18 17:25:49,142 : INFO : topic #40 (0.022): 0.033*"kid" + 0.014*"parent" + 0.013*"like" + 0.011*"time" + 0.010*"get" + 0.008*"go" + 0.007*"one" + 0.007*"would" + 0.006*"think" + 0.006*"know"
+2019-03-18 17:25:49,155 : INFO : topic #8 (0.022): 0.012*"need" + 0.011*"get" + 0.011*"want" + 0.009*"go" + 0.009*"like" + 0.007*"would" + 0.007*"help" + 0.007*"year" + 0.007*"child" + 0.007*"time"
+2019-03-18 17:25:49,175 : INFO : topic #20 (0.022): 0.025*"babi" + 0.012*"use" + 0.009*"one" + 0.009*"get" + 0.009*"like" + 0.007*"would" + 0.007*"go" + 0.006*"also" + 0.006*"make" + 0.006*"diaper"
+2019-03-18 17:25:49,190 : INFO : topic #31 (0.022): 0.021*"school" + 0.018*"kid" + 0.011*"like" + 0.010*"teacher" + 0.010*"get" + 0.008*"time" + 0.008*"year" + 0.007*"would" + 0.007*"go" + 0.007*"one"
+2019-03-18 17:25:49,205 : INFO : topic #5 (0.022): 0.026*"read" + 0.026*"book" + 0.010*"like" + 0.010*"get" + 0.009*"time" + 0.008*"one" + 0.007*"want" + 0.006*"go" + 0.006*"make" + 0.006*"kid"
+2019-03-18 17:25:49,219 : INFO : topic #29 (0.022): 0.012*"like" + 0.009*"kid" + 0.007*"know" + 0.007*"parent" + 0.007*"daughter" + 0.007*"get" + 0.007*"time" + 0.007*"go" + 0.006*"school" + 0.006*"one"
+2019-03-18 17:25:49,234 : INFO : topic #37 (0.022): 0.014*"work" + 0.012*"get" + 0.012*"kid" + 0.010*"time" + 0.008*"would" + 0.008*"go" + 0.008*"pay" + 0.008*"like" + 0.007*"make" + 0.007*"home"
+2019-03-18 17:25:49,248 : INFO : topic #18 (0.022): 0.015*"year" + 0.015*"one" + 0.015*"time" + 0.014*"kid" + 0.012*"get" + 0.011*"babi" + 0.009*"old" + 0.008*"parent" + 0.008*"like" + 0.008*"go"
+2019-03-18 17:25:49,263 : INFO : topic #13 (0.022): 0.012*"amp" + 0.010*"like" + 0.010*"languag" + 0.008*"kid" + 0.008*"thing" + 0.007*"get" + 0.007*"sr" + 0.007*"go" + 0.007*"want" + 0.006*"speak"
+2019-03-18 17:25:49,277 : INFO : topic #27 (0.022): 0.013*"kid" + 0.012*"like" + 0.010*"get" + 0.008*"thing" + 0.008*"parent" + 0.007*"one" + 0.007*"think" + 0.006*"use" + 0.006*"would" + 0.006*"know"
+2019-03-18 17:25:49,290 : INFO : topic #1 (0.022): 0.025*"sleep" + 0.015*"get" + 0.015*"babi" + 0.013*"time" + 0.012*"night" + 0.011*"bed" + 0.009*"month" + 0.009*"go" + 0.009*"like" + 0.007*"one"
+2019-03-18 17:25:49,304 : INFO : topic #44 (0.022): 0.013*"kid" + 0.012*"peopl" + 0.010*"parent" + 0.010*"think" + 0.010*"want" + 0.009*"like" + 0.008*"would" + 0.008*"thing" + 0.007*"get" + 0.007*"go"
+2019-03-18 17:32:47,710 : INFO : initializing corpus reader from Parenting.mm
+2019-03-18 17:32:47,714 : INFO : accepted corpus with 162502 documents, 1352594 features, 38819746 non-zero entries
+2019-03-18 17:35:02,758 : INFO : initializing corpus reader from Parenting.mm
+2019-03-18 17:35:02,764 : INFO : accepted corpus with 162502 documents, 1352594 features, 38819746 non-zero entries
+2019-03-18 17:35:16,828 : INFO : initializing corpus reader from Parenting.mm
+2019-03-18 17:35:16,828 : INFO : accepted corpus with 162502 documents, 1352594 features, 38819746 non-zero entries
+2019-03-18 17:37:11,934 : DEBUG : test
+2019-03-18 17:37:19,450 : DEBUG : Fast version of gensim.models.doc2vec is being used
+2019-03-18 17:37:19,463 : INFO : 'pattern' package not found; tag filters are not available for English
+2019-03-18 17:37:19,734 : DEBUG : backend module://ipykernel.pylab.backend_inline version unknown
+2019-03-18 17:37:55,033 : INFO : initializing corpus reader from Parenting.mm
+2019-03-18 17:37:55,039 : INFO : accepted corpus with 162502 documents, 1352594 features, 38819746 non-zero entries
+2019-03-18 17:38:59,144 : INFO : initializing corpus reader from Parenting.mm
+2019-03-18 17:38:59,144 : INFO : accepted corpus with 162502 documents, 1352594 features, 38819746 non-zero entries
+2019-03-18 17:40:06,625 : INFO : loaded corpus index from Parenting.mm.index
+2019-03-18 17:40:06,625 : INFO : initializing corpus reader from Parenting.mm
+2019-03-18 17:40:06,625 : INFO : accepted corpus with 162502 documents, 1352594 features, 38819746 non-zero entries
+2019-03-18 17:40:06,626 : INFO : loading Dictionary object from Parenting.dict
+2019-03-18 17:40:07,676 : INFO : loaded Parenting.dict
+2019-03-18 17:40:45,151 : DEBUG : test
+2019-03-18 17:40:49,097 : DEBUG : Fast version of gensim.models.doc2vec is being used
+2019-03-18 17:40:49,107 : INFO : 'pattern' package not found; tag filters are not available for English
+2019-03-18 17:40:49,306 : DEBUG : backend module://ipykernel.pylab.backend_inline version unknown
+2019-03-18 17:46:17,096 : INFO : loaded corpus index from Parenting.mm.index
+2019-03-18 17:46:17,099 : INFO : initializing corpus reader from Parenting.mm
+2019-03-18 17:46:17,100 : INFO : accepted corpus with 162502 documents, 1352594 features, 38819746 non-zero entries
+2019-03-18 17:46:17,103 : INFO : loading Dictionary object from Parenting.dict
+2019-03-18 17:46:18,444 : INFO : loaded Parenting.dict
+2019-03-18 17:46:26,470 : INFO : adding document #0 to Dictionary(0 unique tokens: [])
+2019-03-18 17:46:30,174 : INFO : adding document #10000 to Dictionary(152690 unique tokens: ['learn', 'languag', 'earli', 'like', 'sign']...)
+2019-03-18 17:46:35,693 : INFO : adding document #20000 to Dictionary(267505 unique tokens: ['learn', 'languag', 'earli', 'like', 'sign']...)
+2019-03-18 17:46:43,086 : INFO : adding document #30000 to Dictionary(380839 unique tokens: ['learn', 'languag', 'earli', 'like', 'sign']...)
+2019-03-18 17:46:48,678 : INFO : adding document #40000 to Dictionary(480462 unique tokens: ['learn', 'languag', 'earli', 'like', 'sign']...)
+2019-03-18 17:46:54,533 : INFO : adding document #50000 to Dictionary(573970 unique tokens: ['learn', 'languag', 'earli', 'like', 'sign']...)
+2019-03-18 17:47:00,044 : INFO : adding document #60000 to Dictionary(658193 unique tokens: ['learn', 'languag', 'earli', 'like', 'sign']...)
+2019-03-18 17:47:05,365 : INFO : adding document #70000 to Dictionary(735442 unique tokens: ['learn', 'languag', 'earli', 'like', 'sign']...)
+2019-03-18 17:47:11,073 : INFO : adding document #80000 to Dictionary(814717 unique tokens: ['learn', 'languag', 'earli', 'like', 'sign']...)
+2019-03-18 17:47:16,460 : INFO : adding document #90000 to Dictionary(886685 unique tokens: ['learn', 'languag', 'earli', 'like', 'sign']...)
+2019-03-18 17:47:21,531 : INFO : adding document #100000 to Dictionary(953330 unique tokens: ['learn', 'languag', 'earli', 'like', 'sign']...)
+2019-03-18 17:47:26,886 : INFO : adding document #110000 to Dictionary(1023628 unique tokens: ['learn', 'languag', 'earli', 'like', 'sign']...)
+2019-03-18 17:47:32,863 : INFO : adding document #120000 to Dictionary(1095593 unique tokens: ['learn', 'languag', 'earli', 'like', 'sign']...)
+2019-03-18 17:47:37,971 : INFO : adding document #130000 to Dictionary(1162031 unique tokens: ['learn', 'languag', 'earli', 'like', 'sign']...)
+2019-03-18 17:47:42,972 : INFO : adding document #140000 to Dictionary(1223279 unique tokens: ['learn', 'languag', 'earli', 'like', 'sign']...)
+2019-03-18 17:47:47,842 : INFO : adding document #150000 to Dictionary(1284894 unique tokens: ['learn', 'languag', 'earli', 'like', 'sign']...)
+2019-03-18 17:47:51,930 : INFO : adding document #160000 to Dictionary(1338338 unique tokens: ['learn', 'languag', 'earli', 'like', 'sign']...)
+2019-03-18 17:47:52,990 : INFO : built Dictionary(1352594 unique tokens: ['learn', 'languag', 'earli', 'like', 'sign']...) from 162502 documents (total 81800517 corpus positions)
+2019-03-18 17:48:05,909 : INFO : loading LdaModel object from LDA_Model.9.model
+2019-03-18 17:48:05,966 : INFO : loading expElogbeta from LDA_Model.9.model.expElogbeta.npy with mmap=None
+2019-03-18 17:48:06,206 : INFO : setting ignored attribute state to None
+2019-03-18 17:48:06,207 : INFO : setting ignored attribute id2word to None
+2019-03-18 17:48:06,207 : INFO : setting ignored attribute dispatcher to None
+2019-03-18 17:48:06,207 : INFO : loaded LDA_Model.9.model
+2019-03-18 17:48:06,207 : INFO : loading LdaModel object from LDA_Model.9.model.state
+2019-03-18 17:48:06,226 : INFO : loading sstats from LDA_Model.9.model.state.sstats.npy with mmap=None
+2019-03-18 17:48:06,433 : INFO : loaded LDA_Model.9.model.state
+2019-03-18 17:48:08,839 : INFO : topic #2 (0.022): 0.014*"babi" + 0.010*"like" + 0.010*"milk" + 0.009*"get" + 0.008*"formula" + 0.008*"feed" + 0.008*"breastfeed" + 0.007*"one" + 0.007*"breast" + 0.006*"pump"
+2019-03-18 17:48:08,866 : INFO : topic #3 (0.022): 0.015*"get" + 0.013*"time" + 0.010*"thing" + 0.008*"one" + 0.008*"kid" + 0.007*"work" + 0.007*"go" + 0.007*"like" + 0.006*"would" + 0.006*"make"
+2019-03-18 17:48:08,897 : INFO : topic #39 (0.022): 0.030*"name" + 0.015*"like" + 0.011*"love" + 0.011*"kid" + 0.010*"girl" + 0.009*"one" + 0.008*"littl" + 0.007*"boy" + 0.007*"daughter" + 0.006*"get"
+2019-03-18 17:48:08,925 : INFO : topic #32 (0.022): 0.012*"like" + 0.011*"would" + 0.010*"kid" + 0.010*"know" + 0.010*"child" + 0.009*"think" + 0.008*"want" + 0.008*"make" + 0.008*"say" + 0.007*"get"
+2019-03-18 17:48:08,939 : INFO : topic #24 (0.022): 0.013*"would" + 0.010*"like" + 0.009*"go" + 0.008*"circumcis" + 0.008*"get" + 0.006*"time" + 0.006*"thing" + 0.006*"need" + 0.006*"know" + 0.006*"say"
+2019-03-18 17:48:08,954 : INFO : topic #35 (0.022): 0.017*"dog" + 0.015*"kid" + 0.009*"get" + 0.009*"teeth" + 0.008*"one" + 0.008*"go" + 0.008*"like" + 0.008*"old" + 0.008*"time" + 0.007*"year"
+2019-03-18 17:48:08,966 : INFO : topic #0 (0.022): 0.018*"eat" + 0.015*"get" + 0.013*"like" + 0.013*"kid" + 0.011*"food" + 0.010*"time" + 0.010*"make" + 0.008*"thing" + 0.008*"want" + 0.008*"tri"
+2019-03-18 17:48:08,983 : INFO : topic #15 (0.022): 0.017*"get" + 0.014*"toy" + 0.013*"play" + 0.012*"time" + 0.011*"kid" + 0.010*"room" + 0.010*"thing" + 0.009*"like" + 0.009*"old" + 0.009*"year"
+2019-03-18 17:48:08,995 : INFO : topic #40 (0.022): 0.033*"kid" + 0.014*"parent" + 0.013*"like" + 0.011*"time" + 0.010*"get" + 0.008*"go" + 0.007*"one" + 0.007*"would" + 0.006*"think" + 0.006*"know"
+2019-03-18 17:48:09,008 : INFO : topic #8 (0.022): 0.012*"need" + 0.011*"get" + 0.011*"want" + 0.009*"go" + 0.009*"like" + 0.007*"would" + 0.007*"help" + 0.007*"year" + 0.007*"child" + 0.007*"time"
+2019-03-18 17:48:09,027 : INFO : topic #20 (0.022): 0.025*"babi" + 0.012*"use" + 0.009*"one" + 0.009*"get" + 0.009*"like" + 0.007*"would" + 0.007*"go" + 0.006*"also" + 0.006*"make" + 0.006*"diaper"
+2019-03-18 17:48:09,044 : INFO : topic #31 (0.022): 0.021*"school" + 0.018*"kid" + 0.011*"like" + 0.010*"teacher" + 0.010*"get" + 0.008*"time" + 0.008*"year" + 0.007*"would" + 0.007*"go" + 0.007*"one"
+2019-03-18 17:48:09,059 : INFO : topic #5 (0.022): 0.026*"read" + 0.026*"book" + 0.010*"like" + 0.010*"get" + 0.009*"time" + 0.008*"one" + 0.007*"want" + 0.006*"go" + 0.006*"make" + 0.006*"kid"
+2019-03-18 17:48:09,073 : INFO : topic #29 (0.022): 0.012*"like" + 0.009*"kid" + 0.007*"know" + 0.007*"parent" + 0.007*"daughter" + 0.007*"get" + 0.007*"time" + 0.007*"go" + 0.006*"school" + 0.006*"one"
+2019-03-18 17:48:09,090 : INFO : topic #37 (0.022): 0.014*"work" + 0.012*"get" + 0.012*"kid" + 0.010*"time" + 0.008*"would" + 0.008*"go" + 0.008*"pay" + 0.008*"like" + 0.007*"make" + 0.007*"home"
+2019-03-18 17:48:09,105 : INFO : topic #18 (0.022): 0.015*"year" + 0.015*"one" + 0.015*"time" + 0.014*"kid" + 0.012*"get" + 0.011*"babi" + 0.009*"old" + 0.008*"parent" + 0.008*"like" + 0.008*"go"
+2019-03-18 17:48:09,121 : INFO : topic #13 (0.022): 0.012*"amp" + 0.010*"like" + 0.010*"languag" + 0.008*"kid" + 0.008*"thing" + 0.007*"get" + 0.007*"sr" + 0.007*"go" + 0.007*"want" + 0.006*"speak"
+2019-03-18 17:48:09,136 : INFO : topic #27 (0.022): 0.013*"kid" + 0.012*"like" + 0.010*"get" + 0.008*"thing" + 0.008*"parent" + 0.007*"one" + 0.007*"think" + 0.006*"use" + 0.006*"would" + 0.006*"know"
+2019-03-18 17:48:09,151 : INFO : topic #1 (0.022): 0.025*"sleep" + 0.015*"get" + 0.015*"babi" + 0.013*"time" + 0.012*"night" + 0.011*"bed" + 0.009*"month" + 0.009*"go" + 0.009*"like" + 0.007*"one"
+2019-03-18 17:48:09,165 : INFO : topic #44 (0.022): 0.013*"kid" + 0.012*"peopl" + 0.010*"parent" + 0.010*"think" + 0.010*"want" + 0.009*"like" + 0.008*"would" + 0.008*"thing" + 0.007*"get" + 0.007*"go"
+2019-03-18 19:13:04,446 : INFO : topic #43 (0.022): 0.007*"like" + 0.007*"get" + 0.007*"kid" + 0.006*"go" + 0.006*"would" + 0.006*"need" + 0.006*"make" + 0.006*"want" + 0.005*"know" + 0.005*"work" + 0.005*"thing" + 0.005*"help" + 0.005*"babi" + 0.005*"time" + 0.005*"one" + 0.004*"month" + 0.004*"school" + 0.003*"daughter" + 0.003*"tri" + 0.003*"parent" + 0.003*"child" + 0.003*"use" + 0.003*"way" + 0.003*"think" + 0.003*"take" + 0.003*"day" + 0.003*"year" + 0.003*"feel" + 0.003*"sure" + 0.003*"even" + 0.003*"also" + 0.003*"say" + 0.003*"could" + 0.003*"talk" + 0.003*"son" + 0.003*"good" + 0.003*"look" + 0.002*"old" + 0.002*"us" + 0.002*"littl"
+2019-03-18 19:13:04,480 : INFO : topic #16 (0.022): 0.013*"get" + 0.011*"one" + 0.010*"diaper" + 0.010*"like" + 0.008*"use" + 0.008*"thing" + 0.007*"cloth" + 0.007*"time" + 0.007*"game" + 0.007*"kid" + 0.006*"babi" + 0.006*"year" + 0.006*"gift" + 0.006*"go" + 0.006*"buy" + 0.006*"make" + 0.005*"think" + 0.005*"day" + 0.005*"got" + 0.005*"realli" + 0.005*"need" + 0.005*"would" + 0.005*"also" + 0.005*"much" + 0.004*"old" + 0.004*"good" + 0.004*"littl" + 0.004*"play" + 0.004*"someth" + 0.004*"chang" + 0.004*"want" + 0.004*"month" + 0.004*"first" + 0.004*"work" + 0.004*"love" + 0.004*"take" + 0.003*"great" + 0.003*"lot" + 0.003*"stuff" + 0.003*"know"
+2019-03-18 19:13:04,494 : INFO : topic #30 (0.022): 0.015*"parent" + 0.012*"child" + 0.010*"like" + 0.009*"get" + 0.008*"need" + 0.008*"would" + 0.008*"go" + 0.008*"kid" + 0.007*"thing" + 0.006*"abus" + 0.006*"think" + 0.006*"daughter" + 0.006*"help" + 0.005*"make" + 0.005*"want" + 0.005*"dad" + 0.005*"good" + 0.005*"tri" + 0.005*"take" + 0.005*"know" + 0.005*"see" + 0.005*"say" + 0.004*"spank" + 0.004*"feel" + 0.004*"time" + 0.004*"children" + 0.004*"post" + 0.004*"even" + 0.004*"call" + 0.004*"year" + 0.004*"relationship" + 0.004*"right" + 0.004*"way" + 0.004*"talk" + 0.004*"famili" + 0.004*"person" + 0.004*"one" + 0.004*"life" + 0.004*"someth" + 0.003*"situat"
+2019-03-18 19:13:04,504 : INFO : topic #0 (0.022): 0.018*"eat" + 0.015*"get" + 0.013*"like" + 0.013*"kid" + 0.011*"food" + 0.010*"time" + 0.010*"make" + 0.008*"thing" + 0.008*"want" + 0.008*"tri" + 0.007*"go" + 0.007*"would" + 0.007*"one" + 0.005*"know" + 0.005*"old" + 0.005*"someth" + 0.005*"take" + 0.005*"need" + 0.005*"say" + 0.005*"parent" + 0.005*"also" + 0.004*"give" + 0.004*"work" + 0.004*"child" + 0.004*"meal" + 0.004*"think" + 0.004*"help" + 0.004*"good" + 0.004*"put" + 0.004*"much" + 0.004*"let" + 0.004*"day" + 0.004*"dinner" + 0.004*"way" + 0.004*"even" + 0.004*"year" + 0.003*"realli" + 0.003*"daughter" + 0.003*"start" + 0.003*"still"
+2019-03-18 19:13:04,517 : INFO : topic #13 (0.022): 0.012*"amp" + 0.010*"like" + 0.010*"languag" + 0.008*"kid" + 0.008*"thing" + 0.007*"get" + 0.007*"sr" + 0.007*"go" + 0.007*"want" + 0.006*"speak" + 0.006*"realli" + 0.006*"know" + 0.006*"one" + 0.006*"amazon" + 0.006*"english" + 0.005*"dp" + 0.005*"time" + 0.005*"make" + 0.005*"also" + 0.005*"learn" + 0.005*"say" + 0.005*"talk" + 0.005*"would" + 0.005*"school" + 0.004*"ref" + 0.004*"think" + 0.004*"peopl" + 0.004*"good" + 0.004*"even" + 0.004*"daughter" + 0.004*"parent" + 0.004*"way" + 0.004*"old" + 0.004*"babi" + 0.004*"friend" + 0.004*"year" + 0.004*"utf" + 0.004*"book" + 0.004*"need" + 0.004*"much"
+2019-03-18 19:13:04,529 : INFO : topic #4 (0.022): 0.014*"time" + 0.013*"kid" + 0.013*"get" + 0.009*"parent" + 0.009*"go" + 0.008*"one" + 0.008*"thing" + 0.007*"like" + 0.007*"think" + 0.007*"child" + 0.006*"make" + 0.006*"good" + 0.006*"want" + 0.006*"know" + 0.005*"work" + 0.005*"year" + 0.005*"realli" + 0.005*"love" + 0.005*"take" + 0.005*"feel" + 0.005*"would" + 0.005*"much" + 0.004*"babi" + 0.004*"need" + 0.004*"help" + 0.004*"lot" + 0.004*"school" + 0.004*"also" + 0.004*"use" + 0.004*"tri" + 0.004*"day" + 0.004*"littl" + 0.004*"start" + 0.004*"first" + 0.004*"say" + 0.004*"someth" + 0.004*"even" + 0.004*"see" + 0.003*"month" + 0.003*"son"
+2019-03-18 19:13:04,541 : INFO : topic #9 (0.022): 0.012*"kid" + 0.011*"like" + 0.011*"parent" + 0.010*"say" + 0.010*"thing" + 0.008*"go" + 0.008*"time" + 0.008*"get" + 0.008*"one" + 0.007*"want" + 0.007*"make" + 0.006*"need" + 0.006*"know" + 0.006*"see" + 0.006*"think" + 0.005*"peopl" + 0.005*"realli" + 0.005*"way" + 0.005*"would" + 0.005*"tri" + 0.005*"even" + 0.005*"feel" + 0.004*"daughter" + 0.004*"tell" + 0.004*"someth" + 0.004*"good" + 0.004*"much" + 0.004*"work" + 0.004*"name" + 0.004*"child" + 0.004*"call" + 0.004*"son" + 0.004*"use" + 0.004*"never" + 0.004*"old" + 0.004*"day" + 0.003*"littl" + 0.003*"learn" + 0.003*"year" + 0.003*"help"
+2019-03-18 19:13:04,551 : INFO : topic #42 (0.022): 0.018*"get" + 0.015*"time" + 0.014*"go" + 0.014*"kid" + 0.012*"day" + 0.010*"work" + 0.009*"like" + 0.009*"would" + 0.008*"thing" + 0.008*"take" + 0.008*"need" + 0.007*"one" + 0.007*"month" + 0.007*"week" + 0.007*"husband" + 0.007*"home" + 0.007*"year" + 0.006*"think" + 0.006*"famili" + 0.006*"also" + 0.006*"daughter" + 0.006*"babi" + 0.005*"feel" + 0.005*"know" + 0.005*"night" + 0.005*"help" + 0.005*"parent" + 0.005*"realli" + 0.005*"friend" + 0.005*"want" + 0.004*"wife" + 0.004*"hour" + 0.004*"make" + 0.004*"first" + 0.004*"come" + 0.004*"even" + 0.004*"much" + 0.004*"mom" + 0.004*"littl" + 0.004*"old"
+2019-03-18 19:13:04,563 : INFO : topic #17 (0.022): 0.006*"get" + 0.006*"like" + 0.006*"kid" + 0.005*"go" + 0.005*"time" + 0.004*"year" + 0.004*"take" + 0.003*"day" + 0.003*"school" + 0.003*"need" + 0.003*"child" + 0.003*"thing" + 0.003*"even" + 0.003*"one" + 0.003*"old" + 0.003*"parent" + 0.003*"would" + 0.003*"daughter" + 0.003*"make" + 0.003*"realli" + 0.003*"good" + 0.003*"littl" + 0.003*"think" + 0.002*"know" + 0.002*"tri" + 0.002*"want" + 0.002*"month" + 0.002*"book" + 0.002*"start" + 0.002*"feel" + 0.002*"help" + 0.002*"someth" + 0.002*"also" + 0.002*"back" + 0.002*"lot" + 0.002*"much" + 0.002*"son" + 0.002*"say" + 0.002*"everi" + 0.002*"first"
+2019-03-18 19:13:04,573 : INFO : topic #11 (0.022): 0.013*"get" + 0.010*"kid" + 0.008*"like" + 0.007*"thing" + 0.007*"make" + 0.007*"time" + 0.007*"one" + 0.007*"sick" + 0.006*"go" + 0.006*"would" + 0.006*"year" + 0.006*"cat" + 0.005*"say" + 0.005*"day" + 0.005*"think" + 0.005*"know" + 0.005*"old" + 0.005*"month" + 0.005*"good" + 0.004*"take" + 0.004*"ear" + 0.004*"also" + 0.004*"allergi" + 0.004*"tri" + 0.004*"babi" + 0.004*"realli" + 0.004*"got" + 0.004*"start" + 0.004*"feel" + 0.004*"someth" + 0.004*"could" + 0.004*"help" + 0.003*"use" + 0.003*"son" + 0.003*"much" + 0.003*"daughter" + 0.003*"infect" + 0.003*"see" + 0.003*"even" + 0.003*"keep"
+2019-03-18 19:13:04,585 : INFO : topic #26 (0.022): 0.017*"vaccin" + 0.010*"get" + 0.009*"peopl" + 0.009*"kid" + 0.007*"one" + 0.007*"like" + 0.006*"parent" + 0.006*"child" + 0.006*"r" + 0.006*"would" + 0.006*"children" + 0.005*"think" + 0.005*"make" + 0.005*"know" + 0.005*"post" + 0.004*"go" + 0.004*"risk" + 0.004*"pictur" + 0.004*"even" + 0.004*"also" + 0.004*"say" + 0.004*"want" + 0.004*"year" + 0.003*"thing" + 0.003*"take" + 0.003*"babi" + 0.003*"realli" + 0.003*"see" + 0.003*"time" + 0.003*"look" + 0.003*"immun" + 0.003*"diseas" + 0.003*"reason" + 0.003*"reddit" + 0.003*"studi" + 0.003*"shot" + 0.003*"use" + 0.003*"articl" + 0.003*"mani" + 0.003*"good"
+2019-03-18 19:13:04,603 : INFO : topic #23 (0.022): 0.018*"kid" + 0.010*"would" + 0.010*"school" + 0.010*"get" + 0.009*"like" + 0.008*"go" + 0.008*"parent" + 0.008*"child" + 0.007*"old" + 0.007*"year" + 0.007*"know" + 0.006*"one" + 0.006*"son" + 0.005*"want" + 0.005*"thing" + 0.005*"could" + 0.005*"think" + 0.005*"make" + 0.005*"need" + 0.005*"help" + 0.005*"peopl" + 0.004*"say" + 0.004*"also" + 0.004*"time" + 0.004*"someth" + 0.004*"ask" + 0.004*"children" + 0.004*"daughter" + 0.004*"talk" + 0.004*"realli" + 0.004*"call" + 0.003*"good" + 0.003*"even" + 0.003*"feel" + 0.003*"start" + 0.003*"use" + 0.003*"way" + 0.003*"see" + 0.003*"take" + 0.003*"tell"
+2019-03-18 19:13:04,623 : INFO : topic #12 (0.022): 0.012*"potti" + 0.010*"like" + 0.010*"get" + 0.010*"go" + 0.009*"time" + 0.008*"food" + 0.008*"month" + 0.007*"use" + 0.007*"poop" + 0.007*"make" + 0.007*"one" + 0.007*"thing" + 0.007*"train" + 0.007*"kid" + 0.007*"day" + 0.007*"start" + 0.006*"tri" + 0.006*"eat" + 0.006*"diaper" + 0.005*"would" + 0.005*"son" + 0.005*"old" + 0.005*"realli" + 0.005*"also" + 0.005*"want" + 0.005*"babi" + 0.005*"pee" + 0.005*"work" + 0.004*"littl" + 0.004*"good" + 0.004*"think" + 0.004*"need" + 0.004*"take" + 0.004*"year" + 0.004*"toilet" + 0.004*"much" + 0.004*"put" + 0.004*"help" + 0.004*"know" + 0.004*"give"
+2019-03-18 19:13:04,635 : INFO : topic #10 (0.022): 0.010*"shower" + 0.010*"year" + 0.010*"one" + 0.009*"think" + 0.009*"like" + 0.009*"kid" + 0.008*"want" + 0.008*"nake" + 0.008*"time" + 0.008*"get" + 0.007*"old" + 0.006*"would" + 0.005*"go" + 0.005*"bath" + 0.005*"see" + 0.005*"feel" + 0.005*"thing" + 0.005*"around" + 0.004*"make" + 0.004*"son" + 0.004*"parent" + 0.004*"peopl" + 0.004*"need" + 0.004*"bodi" + 0.004*"child" + 0.004*"littl" + 0.004*"still" + 0.004*"much" + 0.004*"know" + 0.004*"realli" + 0.004*"age" + 0.004*"even" + 0.004*"daughter" + 0.003*"brother" + 0.003*"famili" + 0.003*"also" + 0.003*"say" + 0.003*"come" + 0.003*"differ" + 0.003*"nuditi"
+2019-03-18 19:13:04,652 : INFO : topic #37 (0.022): 0.014*"work" + 0.012*"get" + 0.012*"kid" + 0.010*"time" + 0.008*"would" + 0.008*"go" + 0.008*"pay" + 0.008*"like" + 0.007*"make" + 0.007*"home" + 0.007*"one" + 0.007*"job" + 0.006*"year" + 0.006*"parent" + 0.006*"need" + 0.006*"money" + 0.006*"school" + 0.006*"know" + 0.006*"day" + 0.005*"want" + 0.005*"think" + 0.005*"much" + 0.005*"take" + 0.004*"car" + 0.004*"also" + 0.004*"realli" + 0.004*"good" + 0.004*"even" + 0.004*"help" + 0.004*"peopl" + 0.004*"famili" + 0.004*"hour" + 0.004*"live" + 0.004*"care" + 0.004*"could" + 0.003*"thing" + 0.003*"way" + 0.003*"child" + 0.003*"week" + 0.003*"lot"
+2019-03-18 19:13:04,665 : INFO : topic #8 (0.022): 0.012*"need" + 0.011*"get" + 0.011*"want" + 0.009*"go" + 0.009*"like" + 0.007*"would" + 0.007*"help" + 0.007*"year" + 0.007*"child" + 0.007*"time" + 0.007*"one" + 0.006*"think" + 0.006*"thing" + 0.006*"way" + 0.006*"life" + 0.006*"work" + 0.006*"make" + 0.006*"feel" + 0.006*"take" + 0.005*"parent" + 0.005*"kid" + 0.005*"colleg" + 0.005*"wife" + 0.005*"much" + 0.005*"realli" + 0.005*"live" + 0.005*"also" + 0.004*"school" + 0.004*"tri" + 0.004*"sound" + 0.004*"know" + 0.004*"job" + 0.004*"good" + 0.004*"babi" + 0.004*"love" + 0.004*"daughter" + 0.003*"peopl" + 0.003*"lot" + 0.003*"famili" + 0.003*"even"
+2019-03-18 19:13:04,679 : INFO : topic #28 (0.022): 0.012*"get" + 0.012*"like" + 0.011*"kid" + 0.010*"one" + 0.009*"time" + 0.007*"old" + 0.007*"month" + 0.007*"go" + 0.006*"look" + 0.005*"littl" + 0.005*"use" + 0.005*"walk" + 0.005*"thing" + 0.005*"babi" + 0.005*"would" + 0.005*"put" + 0.005*"tri" + 0.005*"son" + 0.005*"year" + 0.005*"think" + 0.004*"realli" + 0.004*"make" + 0.004*"around" + 0.004*"know" + 0.004*"want" + 0.004*"say" + 0.004*"daughter" + 0.004*"start" + 0.004*"eye" + 0.004*"amp" + 0.004*"take" + 0.004*"way" + 0.004*"need" + 0.004*"back" + 0.004*"hand" + 0.004*"let" + 0.003*"even" + 0.003*"see" + 0.003*"day" + 0.003*"got"
+2019-03-18 19:13:04,692 : INFO : topic #19 (0.022): 0.021*"kid" + 0.013*"get" + 0.012*"go" + 0.011*"like" + 0.010*"time" + 0.008*"one" + 0.007*"want" + 0.006*"would" + 0.006*"think" + 0.006*"make" + 0.006*"take" + 0.006*"day" + 0.006*"thing" + 0.005*"year" + 0.005*"good" + 0.005*"realli" + 0.005*"also" + 0.005*"hous" + 0.005*"lot" + 0.004*"old" + 0.004*"see" + 0.004*"know" + 0.004*"littl" + 0.004*"play" + 0.004*"feel" + 0.004*"still" + 0.004*"love" + 0.004*"someth" + 0.004*"son" + 0.004*"tri" + 0.004*"around" + 0.003*"fun" + 0.003*"back" + 0.003*"even" + 0.003*"much" + 0.003*"way" + 0.003*"could" + 0.003*"child" + 0.003*"parent" + 0.003*"keep"
+2019-03-18 19:13:04,705 : INFO : topic #21 (0.022): 0.015*"get" + 0.014*"like" + 0.010*"kid" + 0.010*"go" + 0.010*"time" + 0.009*"want" + 0.009*"thing" + 0.008*"need" + 0.008*"know" + 0.008*"feel" + 0.008*"think" + 0.007*"would" + 0.007*"tri" + 0.007*"make" + 0.007*"parent" + 0.006*"way" + 0.006*"help" + 0.006*"say" + 0.006*"behavior" + 0.005*"work" + 0.005*"child" + 0.005*"year" + 0.005*"talk" + 0.005*"give" + 0.005*"someth" + 0.005*"peopl" + 0.005*"good" + 0.005*"even" + 0.005*"day" + 0.004*"realli" + 0.004*"old" + 0.004*"one" + 0.004*"ask" + 0.004*"could" + 0.004*"take" + 0.004*"tell" + 0.004*"see" + 0.003*"much" + 0.003*"also" + 0.003*"use"
+2019-03-18 19:13:04,720 : INFO : topic #29 (0.022): 0.012*"like" + 0.009*"kid" + 0.007*"know" + 0.007*"parent" + 0.007*"daughter" + 0.007*"get" + 0.007*"time" + 0.007*"go" + 0.006*"school" + 0.006*"one" + 0.006*"would" + 0.006*"year" + 0.006*"think" + 0.006*"thing" + 0.005*"want" + 0.005*"son" + 0.005*"even" + 0.005*"swim" + 0.005*"make" + 0.005*"need" + 0.004*"realli" + 0.004*"could" + 0.004*"good" + 0.004*"day" + 0.004*"old" + 0.004*"tri" + 0.004*"child" + 0.004*"pool" + 0.004*"much" + 0.003*"peopl" + 0.003*"see" + 0.003*"say" + 0.003*"work" + 0.003*"first" + 0.003*"someth" + 0.003*"feel" + 0.003*"month" + 0.003*"take" + 0.003*"well" + 0.003*"also"
+2019-03-19 06:29:40,884 : DEBUG : test
+2019-03-19 06:29:49,435 : DEBUG : Fast version of gensim.models.doc2vec is being used
+2019-03-19 06:29:49,449 : INFO : 'pattern' package not found; tag filters are not available for English
+2019-03-19 06:29:49,721 : DEBUG : backend module://ipykernel.pylab.backend_inline version unknown
+2019-03-19 07:43:26,867 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000
+2019-03-19 07:48:20,172 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000
+2019-03-19 09:27:01,122 : ERROR : Line magic function `%memit` not found.
+2019-03-19 09:27:13,668 : ERROR : Line magic function `%memit` not found.
+2019-03-19 09:27:50,537 : ERROR : Line magic function `%memit` not found.
+2019-03-19 15:17:16,522 : DEBUG : test
+2019-03-19 15:17:32,613 : DEBUG : Fast version of gensim.models.doc2vec is being used
+2019-03-19 15:17:32,626 : INFO : 'pattern' package not found; tag filters are not available for English
+2019-03-19 15:17:32,891 : DEBUG : backend module://ipykernel.pylab.backend_inline version unknown
+2019-03-19 15:45:22,771 : WARNING : No handles with labels found to put in legend.
+2019-03-19 15:45:22,791 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000
+2019-03-19 15:45:22,936 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=30.0 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000
+2019-03-19 15:45:22,988 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=14.399999999999999 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000
+2019-03-20 00:07:37,524 : WARNING : No handles with labels found to put in legend.
+2019-03-20 00:15:36,881 : WARNING : No handles with labels found to put in legend.
+2019-03-20 00:17:02,572 : WARNING : No handles with labels found to put in legend.
+2019-03-20 00:17:29,692 : WARNING : No handles with labels found to put in legend.
+2019-03-20 00:46:35,725 : WARNING : No handles with labels found to put in legend.
+2019-03-20 14:40:56,874 : WARNING : No handles with labels found to put in legend.
+2019-03-20 14:44:10,548 : WARNING : No handles with labels found to put in legend.
+2019-03-20 14:47:47,686 : WARNING : No handles with labels found to put in legend.
+2019-03-20 15:14:04,673 : WARNING : No handles with labels found to put in legend.
+2019-03-20 15:17:11,775 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000
+2019-03-20 17:06:14,707 : WARNING : No handles with labels found to put in legend.
+2019-03-20 17:10:21,593 : WARNING : No handles with labels found to put in legend.
+2019-03-20 17:15:40,737 : WARNING : No handles with labels found to put in legend.
+2019-03-20 17:16:36,253 : WARNING : No handles with labels found to put in legend.
+2019-03-20 17:18:37,433 : DEBUG : test
+2019-03-20 17:18:54,762 : DEBUG : Fast version of gensim.models.doc2vec is being used
+2019-03-20 17:18:54,776 : INFO : 'pattern' package not found; tag filters are not available for English
+2019-03-20 17:18:55,189 : DEBUG : backend module://ipykernel.pylab.backend_inline version unknown
+2019-03-20 17:24:34,759 : WARNING : No handles with labels found to put in legend.
+2019-03-20 17:24:34,776 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000
+2019-03-20 17:24:34,973 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=30.0 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000
+2019-03-20 17:24:35,021 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=14.399999999999999 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000
+2019-03-20 17:26:36,592 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000
+2019-03-20 17:41:23,906 : WARNING : No handles with labels found to put in legend.
+2019-03-21 02:04:10,137 : DEBUG : test
+2019-03-21 02:04:47,313 : DEBUG : Fast version of gensim.models.doc2vec is being used
+2019-03-21 02:04:47,328 : INFO : 'pattern' package not found; tag filters are not available for English
+2019-03-21 02:04:47,650 : DEBUG : backend module://ipykernel.pylab.backend_inline version unknown
+2019-03-21 08:35:03,214 : WARNING : No handles with labels found to put in legend.
+2019-03-21 08:35:03,238 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000
+2019-03-21 08:35:03,395 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=30.0 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000
+2019-03-21 08:35:03,436 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=14.399999999999999 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000
+2019-03-21 08:35:43,607 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000
+2019-03-21 10:44:33,626 : WARNING : No handles with labels found to put in legend.
+2019-03-21 15:02:31,108 : WARNING : No handles with labels found to put in legend.
+2019-03-21 22:44:57,808 : DEBUG : test
+2019-03-21 22:46:13,798 : DEBUG : Fast version of gensim.models.doc2vec is being used
+2019-03-21 22:46:13,812 : INFO : 'pattern' package not found; tag filters are not available for English
+2019-03-21 22:46:14,208 : DEBUG : backend module://ipykernel.pylab.backend_inline version unknown
+2019-03-21 23:01:47,672 : WARNING : No handles with labels found to put in legend.
+2019-03-21 23:01:47,690 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000
+2019-03-21 23:01:47,871 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=30.0 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000
+2019-03-21 23:01:47,931 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=14.399999999999999 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000
+2019-03-21 23:03:13,775 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000
+2019-03-21 23:12:40,221 : WARNING : No handles with labels found to put in legend.
+2019-03-21 23:41:56,195 : DEBUG : test
+2019-03-21 23:42:07,610 : DEBUG : Fast version of gensim.models.doc2vec is being used
+2019-03-21 23:42:07,624 : INFO : 'pattern' package not found; tag filters are not available for English
+2019-03-21 23:42:07,966 : DEBUG : backend module://ipykernel.pylab.backend_inline version unknown
+2019-03-21 23:51:07,885 : WARNING : No handles with labels found to put in legend.
+2019-03-21 23:51:07,894 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000
+2019-03-21 23:51:08,066 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=30.0 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000
+2019-03-21 23:51:08,177 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=14.399999999999999 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000
+2019-03-21 23:51:34,707 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000
+2019-03-21 23:54:58,458 : WARNING : No handles with labels found to put in legend.
+2019-03-22 00:39:53,031 : WARNING : No handles with labels found to put in legend.
+2019-03-22 01:08:34,183 : WARNING : No handles with labels found to put in legend.
+2019-03-22 15:01:02,204 : DEBUG : test
+2019-03-22 15:01:16,949 : DEBUG : Fast version of gensim.models.doc2vec is being used
+2019-03-22 15:01:17,008 : INFO : 'pattern' package not found; tag filters are not available for English
+2019-03-22 15:01:17,353 : DEBUG : backend module://ipykernel.pylab.backend_inline version unknown
+2019-03-22 15:13:40,357 : WARNING : No handles with labels found to put in legend.
+2019-03-22 15:13:40,382 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000
+2019-03-22 15:13:40,652 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=30.0 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000
+2019-03-22 15:13:40,779 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=14.399999999999999 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000
+2019-03-22 15:13:50,845 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000
+2019-03-22 15:17:44,531 : WARNING : No handles with labels found to put in legend.
+2019-03-22 15:22:17,001 : WARNING : No handles with labels found to put in legend.
+2019-03-22 16:45:04,932 : WARNING : No handles with labels found to put in legend.
+2019-03-22 16:57:44,780 : WARNING : No handles with labels found to put in legend.
+2019-03-22 17:05:18,528 : WARNING : No handles with labels found to put in legend.
+2019-03-24 09:38:49,057 : DEBUG : test
+2019-03-25 00:24:21,154 : DEBUG : test
+2019-03-25 00:24:31,384 : DEBUG : Fast version of gensim.models.doc2vec is being used
+2019-03-25 00:24:31,398 : INFO : 'pattern' package not found; tag filters are not available for English
+2019-03-25 00:24:31,916 : DEBUG : backend module://ipykernel.pylab.backend_inline version unknown
+2019-03-25 00:35:22,835 : WARNING : No handles with labels found to put in legend.
+2019-03-25 00:35:22,848 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000
+2019-03-25 00:35:23,011 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=30.0 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000
+2019-03-25 00:35:23,074 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=14.399999999999999 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000
+2019-03-25 00:46:20,627 : WARNING : No handles with labels found to put in legend.
+2019-03-25 00:46:39,058 : WARNING : No handles with labels found to put in legend.
+2019-03-25 01:05:02,259 : WARNING : No handles with labels found to put in legend.
+2019-03-25 01:11:30,113 : WARNING : No handles with labels found to put in legend.
+2019-03-25 01:12:46,827 : WARNING : No handles with labels found to put in legend.
+2019-03-25 06:21:39,567 : DEBUG : test
+2019-03-25 06:21:44,674 : DEBUG : Fast version of gensim.models.doc2vec is being used
+2019-03-25 06:21:44,688 : INFO : 'pattern' package not found; tag filters are not available for English
+2019-03-25 06:21:45,091 : DEBUG : backend module://ipykernel.pylab.backend_inline version unknown
+2019-03-25 06:24:52,872 : WARNING : No handles with labels found to put in legend.
+2019-03-25 06:24:52,899 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000
+2019-03-25 06:24:53,361 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=30.0 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000
+2019-03-25 06:24:53,472 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=14.399999999999999 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000
+2019-03-25 06:24:54,923 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000
+2019-03-25 06:26:35,867 : WARNING : No handles with labels found to put in legend.
+2019-03-25 06:28:06,487 : WARNING : No handles with labels found to put in legend.
+2019-03-26 10:55:52,791 : WARNING : No handles with labels found to put in legend.
+2019-03-26 10:58:17,062 : WARNING : No handles with labels found to put in legend.
+2019-03-26 11:00:30,281 : WARNING : No handles with labels found to put in legend.
+2019-06-16 18:33:57,746 : DEBUG : test
+2019-06-16 18:34:31,401 : DEBUG : Fast version of gensim.models.doc2vec is being used
+2019-06-16 18:34:31,414 : INFO : 'pattern' package not found; tag filters are not available for English
+2019-06-16 18:34:32,267 : DEBUG : Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-06-16 18:39:43,393 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/core/frame.py
+2019-06-16 18:41:12,367 : WARNING : No handles with labels found to put in legend.
+2019-06-16 18:41:12,373 : DEBUG : update_title_pos
+2019-06-16 18:41:12,405 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/anaconda/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2019-06-16 18:41:12,568 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=30.0 to DejaVu Sans ('/anaconda/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2019-06-16 18:41:12,599 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/anaconda/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2019-06-16 18:41:12,610 : DEBUG : update_title_pos
+2019-06-16 18:41:12,847 : DEBUG : update_title_pos
+2019-06-16 18:41:13,078 : DEBUG : update_title_pos
+2019-06-16 18:41:13,180 : DEBUG : update_title_pos
+2019-06-16 18:42:20,401 : DEBUG : diff parser start
+2019-06-16 18:42:20,401 : DEBUG : line_lengths old: 1; new: 1
+2019-06-16 18:42:20,401 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-16 18:42:20,402 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-16 18:42:20,402 : DEBUG : diff parser end
+2019-06-16 18:42:23,898 : DEBUG : diff parser start
+2019-06-16 18:42:23,899 : DEBUG : line_lengths old: 1; new: 2
+2019-06-16 18:42:23,899 : DEBUG : -> code[replace] old[1:1] new[1:2]
+2019-06-16 18:42:23,900 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2019-06-16 18:42:23,900 : DEBUG : diff parser end
+2019-06-16 18:42:59,305 : DEBUG : diff parser start
+2019-06-16 18:42:59,305 : DEBUG : line_lengths old: 2; new: 1
+2019-06-16 18:42:59,306 : DEBUG : -> code[replace] old[1:2] new[1:1]
+2019-06-16 18:42:59,307 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-16 18:42:59,307 : DEBUG : diff parser end
+2019-06-16 19:30:12,993 : DEBUG : test
+2019-06-16 19:30:26,773 : DEBUG : Fast version of gensim.models.doc2vec is being used
+2019-06-16 19:30:26,783 : INFO : 'pattern' package not found; tag filters are not available for English
+2019-06-16 19:30:27,370 : DEBUG : Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-06-16 19:31:14,044 : DEBUG : Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-06-16 19:32:54,372 : DEBUG : diff parser start
+2019-06-16 19:32:54,372 : DEBUG : line_lengths old: 1; new: 1
+2019-06-16 19:32:54,372 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-16 19:32:54,372 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-16 19:32:54,373 : DEBUG : diff parser end
+2019-06-16 19:32:54,663 : DEBUG : diff parser start
+2019-06-16 19:32:54,663 : DEBUG : line_lengths old: 1; new: 1
+2019-06-16 19:32:54,663 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-16 19:32:54,664 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-16 19:32:54,664 : DEBUG : diff parser end
+2019-06-16 19:32:54,814 : DEBUG : diff parser start
+2019-06-16 19:32:54,815 : DEBUG : line_lengths old: 1; new: 1
+2019-06-16 19:32:54,815 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-16 19:32:54,815 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-16 19:32:54,816 : DEBUG : diff parser end
+2019-06-16 19:32:57,383 : DEBUG : diff parser start
+2019-06-16 19:32:57,383 : DEBUG : line_lengths old: 1; new: 1
+2019-06-16 19:32:57,383 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-16 19:32:57,383 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-16 19:32:57,384 : DEBUG : diff parser end
+2019-06-16 19:35:40,646 : DEBUG : diff parser start
+2019-06-16 19:35:40,646 : DEBUG : line_lengths old: 1; new: 1
+2019-06-16 19:35:40,646 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-16 19:35:40,647 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-16 19:35:40,647 : DEBUG : diff parser end
+2019-06-16 19:35:40,655 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/__init__.py
+2019-06-16 19:35:40,660 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/io/clipboards.py
+2019-06-16 19:35:40,724 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/io/parsers.py
+2019-06-16 19:35:40,751 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/util/_decorators.py
+2019-06-16 19:35:40,755 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/io/gbq.py
+2019-06-16 19:35:40,848 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/io/pytables.py
+2019-06-16 19:35:40,893 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/io/html.py
+2019-06-16 19:35:40,917 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/io/json/json.py
+2019-06-16 19:35:40,941 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/io/packers.py
+2019-06-16 19:35:40,951 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/io/parquet.py
+2019-06-16 19:35:41,017 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/io/pickle.py
+2019-06-16 19:35:41,022 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/io/sas/sasreader.py
+2019-06-16 19:35:41,045 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/io/sql.py
+2019-06-16 19:35:41,890 : DEBUG : diff parser start
+2019-06-16 19:35:41,891 : DEBUG : line_lengths old: 1; new: 1
+2019-06-16 19:35:41,891 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-16 19:35:41,891 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-16 19:35:41,891 : DEBUG : diff parser end
+2019-06-16 19:37:11,735 : DEBUG : diff parser start
+2019-06-16 19:37:11,741 : DEBUG : line_lengths old: 1; new: 1
+2019-06-16 19:37:11,741 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-16 19:37:11,742 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-16 19:37:11,742 : DEBUG : diff parser end
+2019-06-16 19:37:13,424 : DEBUG : diff parser start
+2019-06-16 19:37:13,425 : DEBUG : line_lengths old: 1; new: 1
+2019-06-16 19:37:13,425 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-16 19:37:13,425 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-16 19:37:13,425 : DEBUG : diff parser end
+2019-06-16 19:37:13,535 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/core/frame.py
+2019-06-16 19:37:20,578 : DEBUG : diff parser start
+2019-06-16 19:37:20,578 : DEBUG : line_lengths old: 1; new: 2
+2019-06-16 19:37:20,578 : DEBUG : -> code[replace] old[1:1] new[1:2]
+2019-06-16 19:37:20,579 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2019-06-16 19:37:20,580 : DEBUG : diff parser end
+2019-06-16 19:37:37,556 : DEBUG : diff parser start
+2019-06-16 19:37:37,556 : DEBUG : line_lengths old: 2; new: 1
+2019-06-16 19:37:37,556 : DEBUG : -> code[replace] old[1:2] new[1:1]
+2019-06-16 19:37:37,557 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-16 19:37:37,557 : DEBUG : diff parser end
+2019-06-16 19:37:39,457 : WARNING : No handles with labels found to put in legend.
+2019-06-16 19:37:39,463 : DEBUG : update_title_pos
+2019-06-16 19:37:39,468 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=13.2 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000.
+2019-06-16 19:37:39,481 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=30.0 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000.
+2019-06-16 19:37:39,499 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=14.399999999999999 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000.
+2019-06-16 19:37:39,508 : DEBUG : update_title_pos
+2019-06-16 19:37:39,526 : DEBUG : update_title_pos
+2019-06-16 19:37:39,539 : DEBUG : update_title_pos
+2019-06-16 19:37:39,548 : DEBUG : update_title_pos
+2019-06-16 20:41:24,147 : ERROR : Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-06-16 20:41:24,149 : ERROR : Invalid alias: The name more can't be aliased because it is another magic command.
+2019-06-16 20:41:24,149 : ERROR : Invalid alias: The name less can't be aliased because it is another magic command.
+2019-06-16 20:41:24,149 : ERROR : Invalid alias: The name man can't be aliased because it is another magic command.
+2019-06-16 20:51:34,239 : DEBUG : diff parser start
+2019-06-16 20:51:34,239 : DEBUG : line_lengths old: 1; new: 1
+2019-06-16 20:51:34,239 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-16 20:51:34,239 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-16 20:51:34,239 : DEBUG : diff parser end
+2019-06-16 20:51:34,277 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/sklearn/model_selection/_split.py
+2019-06-16 20:51:55,591 : DEBUG : diff parser start
+2019-06-16 20:51:55,591 : DEBUG : line_lengths old: 1; new: 1
+2019-06-16 20:51:55,591 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-16 20:51:55,592 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-16 20:51:55,592 : DEBUG : diff parser end
+2019-06-16 20:56:21,307 : DEBUG : diff parser start
+2019-06-16 20:56:21,308 : DEBUG : line_lengths old: 1; new: 2
+2019-06-16 20:56:21,308 : DEBUG : -> code[replace] old[1:1] new[1:2]
+2019-06-16 20:56:21,312 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2019-06-16 20:56:21,312 : DEBUG : diff parser end
+2019-06-16 20:56:21,343 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/numpy/__init__.py
+2019-06-16 20:56:40,466 : DEBUG : diff parser start
+2019-06-16 20:56:40,466 : DEBUG : line_lengths old: 2; new: 1
+2019-06-16 20:56:40,466 : DEBUG : -> code[replace] old[1:2] new[1:1]
+2019-06-16 20:56:40,467 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-16 20:56:40,467 : DEBUG : diff parser end
+2019-06-16 21:18:40,738 : DEBUG : diff parser start
+2019-06-16 21:18:40,738 : DEBUG : line_lengths old: 1; new: 1
+2019-06-16 21:18:40,738 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-16 21:18:40,739 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-16 21:18:40,739 : DEBUG : diff parser end
+2019-06-16 21:18:40,803 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/core/series.py
+2019-06-16 21:18:48,229 : DEBUG : diff parser start
+2019-06-16 21:18:48,229 : DEBUG : line_lengths old: 1; new: 2
+2019-06-16 21:18:48,229 : DEBUG : -> code[replace] old[1:1] new[1:2]
+2019-06-16 21:18:48,230 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2019-06-16 21:18:48,230 : DEBUG : diff parser end
+2019-06-16 21:19:02,981 : DEBUG : diff parser start
+2019-06-16 21:19:02,982 : DEBUG : line_lengths old: 2; new: 2
+2019-06-16 21:19:02,982 : DEBUG : -> code[equal] old[1:1] new[1:1]
+2019-06-16 21:19:02,982 : DEBUG : copy old[1:1] new[1:1]
+2019-06-16 21:19:02,982 : DEBUG : -> code[replace] old[2:2] new[2:2]
+2019-06-16 21:19:02,983 : DEBUG : parse_part from 2 to 2 (to 1 in part parser)
+2019-06-16 21:19:02,983 : DEBUG : diff parser end
+2019-06-16 21:31:12,118 : DEBUG : diff parser start
+2019-06-16 21:31:12,119 : DEBUG : line_lengths old: 2; new: 1
+2019-06-16 21:31:12,119 : DEBUG : -> code[replace] old[1:2] new[1:1]
+2019-06-16 21:31:12,119 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-16 21:31:12,119 : DEBUG : diff parser end
+2019-06-16 21:31:14,480 : DEBUG : diff parser start
+2019-06-16 21:31:14,481 : DEBUG : line_lengths old: 1; new: 1
+2019-06-16 21:31:14,481 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-16 21:31:14,481 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-16 21:31:14,481 : DEBUG : diff parser end
+2019-06-16 21:31:14,746 : DEBUG : diff parser start
+2019-06-16 21:31:14,746 : DEBUG : line_lengths old: 1; new: 1
+2019-06-16 21:31:14,746 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-16 21:31:14,746 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-16 21:31:14,746 : DEBUG : diff parser end
+2019-06-16 21:33:02,627 : DEBUG : diff parser start
+2019-06-16 21:33:02,627 : DEBUG : line_lengths old: 1; new: 1
+2019-06-16 21:33:02,627 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-16 21:33:02,627 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-16 21:33:02,627 : DEBUG : diff parser end
+2019-06-16 21:34:44,832 : DEBUG : diff parser start
+2019-06-16 21:34:44,832 : DEBUG : line_lengths old: 1; new: 1
+2019-06-16 21:34:44,832 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-16 21:34:44,842 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-16 21:34:44,843 : DEBUG : diff parser end
+2019-06-16 21:36:20,342 : DEBUG : diff parser start
+2019-06-16 21:36:20,343 : DEBUG : line_lengths old: 1; new: 3
+2019-06-16 21:36:20,343 : DEBUG : -> code[replace] old[1:1] new[1:3]
+2019-06-16 21:36:20,351 : DEBUG : parse_part from 1 to 3 (to 2 in part parser)
+2019-06-16 21:36:20,351 : DEBUG : diff parser end
+2019-06-16 21:36:20,393 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/sklearn/linear_model/logistic.py
+2019-06-16 21:36:23,809 : DEBUG : diff parser start
+2019-06-16 21:36:23,809 : DEBUG : line_lengths old: 3; new: 3
+2019-06-16 21:36:23,810 : DEBUG : -> code[equal] old[1:2] new[1:2]
+2019-06-16 21:36:23,810 : DEBUG : parse_part from 1 to 3 (to 2 in part parser)
+2019-06-16 21:36:23,810 : DEBUG : -> code[replace] old[3:3] new[3:3]
+2019-06-16 21:36:23,811 : DEBUG : diff parser end
+2019-06-16 21:42:30,799 : DEBUG : diff parser start
+2019-06-16 21:42:30,799 : DEBUG : line_lengths old: 3; new: 7
+2019-06-16 21:42:30,800 : DEBUG : -> code[replace] old[1:3] new[1:7]
+2019-06-16 21:42:30,801 : DEBUG : parse_part from 1 to 7 (to 6 in part parser)
+2019-06-16 21:42:30,801 : DEBUG : diff parser end
+2019-06-16 21:42:30,838 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/sklearn/model_selection/__init__.py
+2019-06-16 21:42:30,853 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/sklearn/model_selection/_validation.py
+2019-06-16 21:43:02,113 : DEBUG : diff parser start
+2019-06-16 21:43:02,113 : DEBUG : line_lengths old: 7; new: 7
+2019-06-16 21:43:02,113 : DEBUG : -> code[equal] old[1:6] new[1:6]
+2019-06-16 21:43:02,113 : DEBUG : copy old[1:5] new[1:5]
+2019-06-16 21:43:02,114 : DEBUG : parse_part from 6 to 7 (to 6 in part parser)
+2019-06-16 21:43:02,114 : DEBUG : -> code[replace] old[7:7] new[7:7]
+2019-06-16 21:43:02,114 : DEBUG : diff parser end
+2019-06-16 21:43:11,248 : DEBUG : diff parser start
+2019-06-16 21:43:11,249 : DEBUG : line_lengths old: 7; new: 7
+2019-06-16 21:43:11,249 : DEBUG : -> code[equal] old[1:6] new[1:6]
+2019-06-16 21:43:11,249 : DEBUG : copy old[1:5] new[1:5]
+2019-06-16 21:43:11,249 : DEBUG : parse_part from 6 to 7 (to 6 in part parser)
+2019-06-16 21:43:11,249 : DEBUG : -> code[replace] old[7:7] new[7:7]
+2019-06-16 21:43:11,249 : DEBUG : diff parser end
+2019-06-16 21:43:16,908 : DEBUG : diff parser start
+2019-06-16 21:43:16,908 : DEBUG : line_lengths old: 7; new: 7
+2019-06-16 21:43:16,908 : DEBUG : -> code[equal] old[1:6] new[1:6]
+2019-06-16 21:43:16,908 : DEBUG : copy old[1:5] new[1:5]
+2019-06-16 21:43:16,909 : DEBUG : parse_part from 6 to 7 (to 6 in part parser)
+2019-06-16 21:43:16,909 : DEBUG : -> code[replace] old[7:7] new[7:7]
+2019-06-16 21:43:16,909 : DEBUG : diff parser end
+2019-06-16 22:50:45,953 : DEBUG : diff parser start
+2019-06-16 22:50:45,960 : DEBUG : line_lengths old: 7; new: 6
+2019-06-16 22:50:45,960 : DEBUG : -> code[equal] old[1:3] new[1:3]
+2019-06-16 22:50:45,961 : DEBUG : copy old[1:3] new[1:3]
+2019-06-16 22:50:45,961 : DEBUG : -> code[replace] old[4:4] new[4:4]
+2019-06-16 22:50:45,963 : DEBUG : parse_part from 4 to 4 (to 4 in part parser)
+2019-06-16 22:50:45,963 : DEBUG : -> code[equal] old[5:5] new[5:5]
+2019-06-16 22:50:45,963 : DEBUG : copy old[5:5] new[5:5]
+2019-06-16 22:50:45,963 : DEBUG : -> code[replace] old[6:7] new[6:6]
+2019-06-16 22:50:45,964 : DEBUG : parse_part from 6 to 6 (to 5 in part parser)
+2019-06-16 22:50:45,964 : DEBUG : diff parser end
+2019-06-16 22:54:55,157 : DEBUG : diff parser start
+2019-06-16 22:54:55,157 : DEBUG : line_lengths old: 6; new: 6
+2019-06-16 22:54:55,157 : DEBUG : -> code[equal] old[1:5] new[1:5]
+2019-06-16 22:54:55,157 : DEBUG : copy old[1:5] new[1:5]
+2019-06-16 22:54:55,157 : DEBUG : -> code[replace] old[6:6] new[6:6]
+2019-06-16 22:54:55,158 : DEBUG : parse_part from 6 to 6 (to 5 in part parser)
+2019-06-16 22:54:55,158 : DEBUG : diff parser end
+2019-06-17 00:50:44,317 : WARNING : No handles with labels found to put in legend.
+2019-06-17 00:50:44,330 : DEBUG : update_title_pos
+2019-06-17 00:50:44,697 : DEBUG : update_title_pos
+2019-06-17 00:50:45,374 : DEBUG : update_title_pos
+2019-06-17 00:50:45,809 : DEBUG : update_title_pos
+2019-06-17 00:50:46,085 : DEBUG : update_title_pos
+2019-06-17 00:50:59,029 : WARNING : No handles with labels found to put in legend.
+2019-06-17 00:50:59,037 : DEBUG : update_title_pos
+2019-06-17 00:50:59,362 : DEBUG : update_title_pos
+2019-06-17 00:51:00,006 : DEBUG : update_title_pos
+2019-06-17 00:51:00,561 : DEBUG : update_title_pos
+2019-06-17 00:51:00,738 : DEBUG : update_title_pos
+2019-06-17 00:51:19,229 : WARNING : No handles with labels found to put in legend.
+2019-06-17 00:51:19,242 : DEBUG : update_title_pos
+2019-06-17 00:51:19,566 : DEBUG : update_title_pos
+2019-06-17 00:51:20,317 : DEBUG : update_title_pos
+2019-06-17 00:51:20,914 : DEBUG : update_title_pos
+2019-06-17 00:51:21,100 : DEBUG : update_title_pos
+2019-06-17 00:56:48,081 : DEBUG : diff parser start
+2019-06-17 00:56:48,081 : DEBUG : line_lengths old: 6; new: 1
+2019-06-17 00:56:48,081 : DEBUG : -> code[replace] old[1:6] new[1:1]
+2019-06-17 00:56:48,082 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 00:56:48,082 : DEBUG : diff parser end
+2019-06-17 00:56:53,421 : DEBUG : diff parser start
+2019-06-17 00:56:53,421 : DEBUG : line_lengths old: 1; new: 3
+2019-06-17 00:56:53,421 : DEBUG : -> code[replace] old[1:1] new[1:3]
+2019-06-17 00:56:53,423 : DEBUG : parse_part from 1 to 3 (to 2 in part parser)
+2019-06-17 00:56:53,423 : DEBUG : diff parser end
+2019-06-17 06:02:06,937 : DEBUG : diff parser start
+2019-06-17 06:02:06,945 : DEBUG : line_lengths old: 3; new: 1
+2019-06-17 06:02:06,945 : DEBUG : -> code[replace] old[1:3] new[1:1]
+2019-06-17 06:02:06,948 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 06:02:06,949 : DEBUG : diff parser end
+2019-06-17 06:02:36,556 : DEBUG : diff parser start
+2019-06-17 06:02:36,556 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 06:02:36,556 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 06:02:36,557 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 06:02:36,557 : DEBUG : diff parser end
+2019-06-17 06:10:00,216 : DEBUG : diff parser start
+2019-06-17 06:10:00,216 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 06:10:00,216 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 06:10:00,216 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 06:10:00,216 : DEBUG : diff parser end
+2019-06-17 06:10:22,439 : DEBUG : diff parser start
+2019-06-17 06:10:22,439 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 06:10:22,439 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 06:10:22,440 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 06:10:22,440 : DEBUG : diff parser end
+2019-06-17 06:10:22,561 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/core/generic.py
+2019-06-17 06:10:22,610 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/core/base.py
+2019-06-17 06:10:22,623 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/core/accessor.py
+2019-06-17 06:10:25,122 : DEBUG : diff parser start
+2019-06-17 06:10:25,123 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 06:10:25,123 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 06:10:25,123 : DEBUG : parse_part from 1 to 2 (to 0 in part parser)
+2019-06-17 06:10:25,123 : DEBUG : diff parser end
+2019-06-17 06:10:25,182 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/gensim/models/coherencemodel.py
+2019-06-17 06:10:25,243 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/nltk/stem/snowball.py
+2019-06-17 06:10:25,273 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/sklearn/tree/tree.py
+2019-06-17 06:10:25,280 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/empath/core.py
+2019-06-17 06:10:25,289 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/sklearn/naive_bayes.py
+2019-06-17 06:10:25,297 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/sklearn/preprocessing/imputation.py
+2019-06-17 06:10:25,304 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/nltk/cluster/kmeans.py
+2019-06-17 06:10:25,308 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/sklearn/neighbors/classification.py
+2019-06-17 06:10:25,313 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/nltk/stem/lancaster.py
+2019-06-17 06:10:25,323 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/sklearn/pipeline.py
+2019-06-17 06:10:25,333 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/nltk/stem/porter.py
+2019-06-17 06:10:25,362 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/sklearn/ensemble/forest.py
+2019-06-17 06:10:25,368 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/imblearn/under_sampling/prototype_selection/random_under_sampler.py
+2019-06-17 06:10:25,372 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/nltk/tokenize/regexp.py
+2019-06-17 06:10:25,380 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/imblearn/over_sampling/smote.py
+2019-06-17 06:10:25,386 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/sklearn/svm/classes.py
+2019-06-17 06:10:25,389 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/nltk/stem/api.py
+2019-06-17 06:10:25,413 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/jedi/api/interpreter.py
+2019-06-17 06:10:25,441 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/sklearn/metrics/classification.py
+2019-06-17 06:10:25,454 : DEBUG : pickle loaded: /anaconda/lib/python3.6/posixpath.py
+2019-06-17 06:10:25,464 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/nltk/compat.py
+2019-06-17 06:10:25,465 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/gensim/corpora/__init__.py
+2019-06-17 06:10:25,467 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/dask/__init__.py
+2019-06-17 06:10:25,473 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/nltk/cluster/util.py
+2019-06-17 06:10:25,476 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/IPython/core/autocall.py
+2019-06-17 06:10:25,483 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/sklearn/tree/export.py
+2019-06-17 06:10:25,486 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/gensim/__init__.py
+2019-06-17 06:10:25,522 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/IPython/core/interactiveshell.py
+2019-06-17 06:10:25,537 : DEBUG : pickle loaded: /anaconda/lib/python3.6/glob.py
+2019-06-17 06:10:25,541 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pycebox/ice.py
+2019-06-17 06:10:25,546 : DEBUG : pickle loaded: /anaconda/lib/python3.6/json/__init__.py
+2019-06-17 06:10:25,591 : DEBUG : pickle loaded: /anaconda/lib/python3.6/logging/__init__.py
+2019-06-17 06:10:25,607 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/sklearn/metrics/scorer.py
+2019-06-17 06:10:25,611 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/sklearn/metrics/__init__.py
+2019-06-17 06:10:25,619 : DEBUG : pickle loaded: /anaconda/lib/python3.6/operator.py
+2019-06-17 06:10:25,632 : DEBUG : pickle loaded: /anaconda/lib/python3.6/os.py
+2019-06-17 06:10:25,657 : DEBUG : pickle loaded: /anaconda/lib/python3.6/pickle.py
+2019-06-17 06:10:25,694 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/matplotlib/pyplot.py
+2019-06-17 06:10:25,706 : DEBUG : pickle loaded: /anaconda/lib/python3.6/pprint.py
+2019-06-17 06:10:25,713 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/sklearn/preprocessing/__init__.py
+2019-06-17 06:10:25,716 : DEBUG : pickle loaded: /anaconda/lib/python3.6/__future__.py
+2019-06-17 06:10:25,718 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pyLDAvis/__init__.py
+2019-06-17 06:10:25,723 : DEBUG : pickle loaded: /anaconda/lib/python3.6/re.py
+2019-06-17 06:10:25,730 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/sklearn/metrics/ranking.py
+2019-06-17 06:10:25,747 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/gensim/utils.py
+2019-06-17 06:10:25,755 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/seaborn/__init__.py
+2019-06-17 06:10:25,779 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/spacy/__init__.py
+2019-06-17 06:10:25,819 : DEBUG : pickle loaded: /anaconda/lib/python3.6/datetime.py
+2019-06-17 06:10:25,834 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/scipy/stats/__init__.py
+2019-06-17 06:10:25,836 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/nltk/stem/__init__.py
+2019-06-17 06:10:25,840 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/nltk/corpus/util.py
+2019-06-17 06:10:25,853 : DEBUG : pickle loaded: /anaconda/lib/python3.6/string.py
+2019-06-17 06:10:25,854 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/nltk/stem/util.py
+2019-06-17 06:10:25,865 : DEBUG : pickle loaded: /anaconda/lib/python3.6/uuid.py
+2019-06-17 06:10:25,874 : DEBUG : pickle loaded: /anaconda/lib/python3.6/warnings.py
+2019-06-17 06:10:27,245 : DEBUG : diff parser start
+2019-06-17 06:10:27,245 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 06:10:27,245 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 06:10:27,246 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 06:10:27,246 : DEBUG : diff parser end
+2019-06-17 06:10:27,432 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/core/ops.py
+2019-06-17 06:10:27,483 : DEBUG : pickle loaded: /anaconda/lib/python3.6/collections/__init__.py
+2019-06-17 06:10:28,161 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/plotting/_core.py
+2019-06-17 06:10:31,894 : DEBUG : diff parser start
+2019-06-17 06:10:31,894 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 06:10:31,894 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 06:10:31,895 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 06:10:31,895 : DEBUG : diff parser end
+2019-06-17 06:11:11,293 : DEBUG : diff parser start
+2019-06-17 06:11:11,294 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 06:11:11,294 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 06:11:11,294 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 06:11:11,294 : DEBUG : diff parser end
+2019-06-17 06:11:14,443 : DEBUG : diff parser start
+2019-06-17 06:11:14,443 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 06:11:14,443 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 06:11:14,444 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 06:11:14,444 : DEBUG : diff parser end
+2019-06-17 06:11:16,046 : DEBUG : diff parser start
+2019-06-17 06:11:16,046 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 06:11:16,047 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 06:11:16,047 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 06:11:16,047 : DEBUG : diff parser end
+2019-06-17 06:11:20,100 : DEBUG : diff parser start
+2019-06-17 06:11:20,100 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 06:11:20,100 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 06:11:20,101 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 06:11:20,101 : DEBUG : diff parser end
+2019-06-17 06:16:43,525 : DEBUG : diff parser start
+2019-06-17 06:16:43,525 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 06:16:43,525 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 06:16:43,525 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 06:16:43,525 : DEBUG : diff parser end
+2019-06-17 06:21:17,777 : DEBUG : diff parser start
+2019-06-17 06:21:17,777 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 06:21:17,777 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 06:21:17,778 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 06:21:17,778 : DEBUG : diff parser end
+2019-06-17 06:21:21,469 : DEBUG : diff parser start
+2019-06-17 06:21:21,469 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 06:21:21,469 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 06:21:21,470 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 06:21:21,470 : DEBUG : diff parser end
+2019-06-17 06:21:55,901 : DEBUG : diff parser start
+2019-06-17 06:21:55,901 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 06:21:55,901 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 06:21:55,901 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 06:21:55,901 : DEBUG : diff parser end
+2019-06-17 06:22:06,601 : DEBUG : diff parser start
+2019-06-17 06:22:06,602 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 06:22:06,602 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 06:22:06,602 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 06:22:06,602 : DEBUG : diff parser end
+2019-06-17 06:22:26,796 : DEBUG : diff parser start
+2019-06-17 06:22:26,796 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 06:22:26,796 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 06:22:26,797 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 06:22:26,797 : DEBUG : diff parser end
+2019-06-17 06:22:40,318 : DEBUG : diff parser start
+2019-06-17 06:22:40,318 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 06:22:40,318 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 06:22:40,318 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 06:22:40,319 : DEBUG : diff parser end
+2019-06-17 06:22:49,550 : DEBUG : diff parser start
+2019-06-17 06:22:49,550 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 06:22:49,550 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 06:22:49,551 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 06:22:49,551 : DEBUG : diff parser end
+2019-06-17 06:23:05,380 : DEBUG : diff parser start
+2019-06-17 06:23:05,380 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 06:23:05,380 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 06:23:05,380 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 06:23:05,380 : DEBUG : diff parser end
+2019-06-17 06:34:54,839 : DEBUG : diff parser start
+2019-06-17 06:34:54,840 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 06:34:54,840 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 06:34:54,840 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 06:34:54,840 : DEBUG : diff parser end
+2019-06-17 06:36:15,293 : DEBUG : diff parser start
+2019-06-17 06:36:15,293 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 06:36:15,293 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 06:36:15,294 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 06:36:15,294 : DEBUG : diff parser end
+2019-06-17 06:40:14,335 : DEBUG : diff parser start
+2019-06-17 06:40:14,335 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 06:40:14,336 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 06:40:14,336 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 06:40:14,336 : DEBUG : diff parser end
+2019-06-17 06:40:16,395 : DEBUG : diff parser start
+2019-06-17 06:40:16,395 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 06:40:16,395 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 06:40:16,395 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 06:40:16,396 : DEBUG : diff parser end
+2019-06-17 06:40:16,702 : DEBUG : diff parser start
+2019-06-17 06:40:16,702 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 06:40:16,702 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 06:40:16,702 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 06:40:16,702 : DEBUG : diff parser end
+2019-06-17 06:44:16,726 : DEBUG : diff parser start
+2019-06-17 06:44:16,726 : DEBUG : line_lengths old: 1; new: 5
+2019-06-17 06:44:16,726 : DEBUG : -> code[replace] old[1:1] new[1:5]
+2019-06-17 06:44:16,728 : DEBUG : parse_part from 1 to 5 (to 4 in part parser)
+2019-06-17 06:44:16,728 : DEBUG : diff parser end
+2019-06-17 06:44:18,655 : DEBUG : diff parser start
+2019-06-17 06:44:18,656 : DEBUG : line_lengths old: 5; new: 5
+2019-06-17 06:44:18,656 : DEBUG : -> code[equal] old[1:4] new[1:4]
+2019-06-17 06:44:18,656 : DEBUG : copy old[1:3] new[1:3]
+2019-06-17 06:44:18,656 : DEBUG : parse_part from 4 to 5 (to 4 in part parser)
+2019-06-17 06:44:18,656 : DEBUG : -> code[replace] old[5:5] new[5:5]
+2019-06-17 06:44:18,656 : DEBUG : diff parser end
+2019-06-17 06:44:45,749 : DEBUG : diff parser start
+2019-06-17 06:44:45,750 : DEBUG : line_lengths old: 5; new: 1
+2019-06-17 06:44:45,750 : DEBUG : -> code[replace] old[1:5] new[1:1]
+2019-06-17 06:44:45,750 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 06:44:45,750 : DEBUG : diff parser end
+2019-06-17 06:44:49,966 : DEBUG : diff parser start
+2019-06-17 06:44:49,966 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 06:44:49,967 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 06:44:49,967 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 06:44:49,967 : DEBUG : diff parser end
+2019-06-17 06:46:08,532 : DEBUG : diff parser start
+2019-06-17 06:46:08,533 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 06:46:08,533 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 06:46:08,533 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 06:46:08,533 : DEBUG : diff parser end
+2019-06-17 06:46:12,087 : DEBUG : diff parser start
+2019-06-17 06:46:12,087 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 06:46:12,088 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 06:46:12,088 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 06:46:12,088 : DEBUG : diff parser end
+2019-06-17 06:46:16,856 : DEBUG : diff parser start
+2019-06-17 06:46:16,856 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 06:46:16,856 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 06:46:16,856 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 06:46:16,856 : DEBUG : diff parser end
+2019-06-17 06:46:21,059 : DEBUG : diff parser start
+2019-06-17 06:46:21,059 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 06:46:21,059 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 06:46:21,059 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 06:46:21,059 : DEBUG : diff parser end
+2019-06-17 08:23:51,596 : DEBUG : diff parser start
+2019-06-17 08:23:51,596 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 08:23:51,596 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 08:23:51,597 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 08:23:51,597 : DEBUG : diff parser end
+2019-06-17 08:48:51,774 : DEBUG : diff parser start
+2019-06-17 08:48:51,780 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 08:48:51,780 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 08:48:51,780 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 08:48:51,781 : DEBUG : diff parser end
+2019-06-17 08:48:52,786 : DEBUG : diff parser start
+2019-06-17 08:48:52,786 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 08:48:52,786 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 08:48:52,786 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 08:48:52,787 : DEBUG : diff parser end
+2019-06-17 08:48:53,353 : DEBUG : diff parser start
+2019-06-17 08:48:53,353 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 08:48:53,353 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 08:48:53,353 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 08:48:53,354 : DEBUG : diff parser end
+2019-06-17 08:49:01,262 : DEBUG : diff parser start
+2019-06-17 08:49:01,263 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 08:49:01,263 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 08:49:01,263 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 08:49:01,263 : DEBUG : diff parser end
+2019-06-17 08:49:01,997 : DEBUG : diff parser start
+2019-06-17 08:49:01,998 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 08:49:01,998 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 08:49:01,999 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 08:49:02,000 : DEBUG : diff parser end
+2019-06-17 08:49:02,158 : DEBUG : diff parser start
+2019-06-17 08:49:02,158 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 08:49:02,158 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 08:49:02,159 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 08:49:02,159 : DEBUG : diff parser end
+2019-06-17 08:49:31,561 : DEBUG : diff parser start
+2019-06-17 08:49:31,561 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 08:49:31,561 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 08:49:31,562 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 08:49:31,562 : DEBUG : diff parser end
+2019-06-17 08:49:32,841 : DEBUG : diff parser start
+2019-06-17 08:49:32,841 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 08:49:32,842 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 08:49:32,842 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 08:49:32,843 : DEBUG : diff parser end
+2019-06-17 08:53:28,311 : DEBUG : diff parser start
+2019-06-17 08:53:28,316 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 08:53:28,316 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 08:53:28,317 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 08:53:28,317 : DEBUG : diff parser end
+2019-06-17 08:54:44,313 : DEBUG : diff parser start
+2019-06-17 08:54:44,313 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 08:54:44,313 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 08:54:44,313 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 08:54:44,313 : DEBUG : diff parser end
+2019-06-17 08:54:45,570 : DEBUG : diff parser start
+2019-06-17 08:54:45,570 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 08:54:45,570 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 08:54:45,570 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 08:54:45,571 : DEBUG : diff parser end
+2019-06-17 09:07:37,904 : DEBUG : diff parser start
+2019-06-17 09:07:37,905 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 09:07:37,905 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 09:07:37,905 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 09:07:37,905 : DEBUG : diff parser end
+2019-06-17 09:08:34,168 : DEBUG : diff parser start
+2019-06-17 09:08:34,174 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 09:08:34,174 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 09:08:34,175 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 09:08:34,175 : DEBUG : diff parser end
+2019-06-17 09:08:53,473 : DEBUG : diff parser start
+2019-06-17 09:08:53,473 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 09:08:53,473 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 09:08:53,473 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 09:08:53,473 : DEBUG : diff parser end
+2019-06-17 09:09:20,386 : DEBUG : diff parser start
+2019-06-17 09:09:20,386 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 09:09:20,386 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 09:09:20,387 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 09:09:20,387 : DEBUG : diff parser end
+2019-06-17 09:10:25,448 : DEBUG : diff parser start
+2019-06-17 09:10:25,454 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 09:10:25,454 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 09:10:25,454 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 09:10:25,454 : DEBUG : diff parser end
+2019-06-17 09:10:35,466 : DEBUG : diff parser start
+2019-06-17 09:10:35,466 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 09:10:35,467 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 09:10:35,467 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 09:10:35,467 : DEBUG : diff parser end
+2019-06-17 09:10:37,135 : DEBUG : diff parser start
+2019-06-17 09:10:37,136 : DEBUG : line_lengths old: 1; new: 1
+2019-06-17 09:10:37,136 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-17 09:10:37,136 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-17 09:10:37,136 : DEBUG : diff parser end
+2019-06-21 02:53:19,444 : DEBUG : test
+2019-06-21 02:53:34,108 : DEBUG : Fast version of gensim.models.doc2vec is being used
+2019-06-21 02:53:34,113 : INFO : 'pattern' package not found; tag filters are not available for English
+2019-06-21 02:53:34,507 : DEBUG : Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-06-21 02:59:25,751 : WARNING : No handles with labels found to put in legend.
+2019-06-21 02:59:25,764 : DEBUG : update_title_pos
+2019-06-21 02:59:25,771 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=13.2 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000.
+2019-06-21 02:59:26,077 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=30.0 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000.
+2019-06-21 02:59:26,151 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=14.399999999999999 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000.
+2019-06-21 02:59:26,157 : DEBUG : update_title_pos
+2019-06-21 02:59:26,576 : DEBUG : update_title_pos
+2019-06-21 02:59:27,055 : DEBUG : update_title_pos
+2019-06-21 02:59:27,238 : DEBUG : update_title_pos
+2019-06-21 03:04:07,872 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/sklearn/__init__.py
+2019-06-21 03:04:07,875 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/sklearn/model_selection/__init__.py
+2019-06-21 03:04:07,896 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/sklearn/model_selection/_validation.py
+2019-06-21 03:12:45,076 : DEBUG : diff parser start
+2019-06-21 03:12:45,077 : DEBUG : line_lengths old: 6; new: 1
+2019-06-21 03:12:45,077 : DEBUG : -> code[replace] old[1:6] new[1:1]
+2019-06-21 03:12:45,078 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 03:12:45,078 : DEBUG : diff parser end
+2019-06-21 03:12:45,100 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/sklearn/utils/deprecation.py
+2019-06-21 03:15:49,083 : DEBUG : update_title_pos
+2019-06-21 03:15:49,127 : DEBUG : update_title_pos
+2019-06-21 03:15:49,387 : DEBUG : update_title_pos
+2019-06-21 03:15:49,408 : DEBUG : update_title_pos
+2019-06-21 03:15:49,432 : DEBUG : update_title_pos
+2019-06-21 03:16:05,807 : DEBUG : diff parser start
+2019-06-21 03:16:05,807 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 03:16:05,807 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 03:16:05,809 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 03:16:05,809 : DEBUG : diff parser end
+2019-06-21 03:16:05,948 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/core/frame.py
+2019-06-21 03:16:06,028 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/matplotlib/pyplot.py
+2019-06-21 03:16:06,120 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/core/generic.py
+2019-06-21 03:16:06,177 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/core/ops.py
+2019-06-21 03:16:06,205 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/core/base.py
+2019-06-21 03:16:06,213 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/core/accessor.py
+2019-06-21 03:16:06,281 : DEBUG : pickle loaded: /anaconda/lib/python3.6/collections/__init__.py
+2019-06-21 03:16:06,328 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/core/series.py
+2019-06-21 03:16:06,414 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/plotting/_core.py
+2019-06-21 03:16:06,628 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/util/_decorators.py
+2019-06-21 03:16:13,986 : DEBUG : update_title_pos
+2019-06-21 03:16:14,018 : DEBUG : update_title_pos
+2019-06-21 03:16:14,299 : DEBUG : update_title_pos
+2019-06-21 03:16:14,325 : DEBUG : update_title_pos
+2019-06-21 03:16:14,346 : DEBUG : update_title_pos
+2019-06-21 03:16:20,375 : DEBUG : update_title_pos
+2019-06-21 03:16:20,415 : DEBUG : update_title_pos
+2019-06-21 03:16:20,690 : DEBUG : update_title_pos
+2019-06-21 03:16:20,710 : DEBUG : update_title_pos
+2019-06-21 03:16:20,729 : DEBUG : update_title_pos
+2019-06-21 03:17:12,145 : DEBUG : diff parser start
+2019-06-21 03:17:12,145 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 03:17:12,145 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 03:17:12,146 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 03:17:12,146 : DEBUG : diff parser end
+2019-06-21 03:17:14,451 : DEBUG : diff parser start
+2019-06-21 03:17:14,451 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 03:17:14,451 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 03:17:14,451 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 03:17:14,451 : DEBUG : diff parser end
+2019-06-21 03:17:15,333 : DEBUG : diff parser start
+2019-06-21 03:17:15,334 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 03:17:15,334 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 03:17:15,334 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 03:17:15,334 : DEBUG : diff parser end
+2019-06-21 03:17:21,231 : DEBUG : diff parser start
+2019-06-21 03:17:21,231 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 03:17:21,231 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 03:17:21,231 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 03:17:21,232 : DEBUG : diff parser end
+2019-06-21 03:17:25,750 : DEBUG : update_title_pos
+2019-06-21 03:17:25,783 : DEBUG : update_title_pos
+2019-06-21 03:17:26,085 : DEBUG : update_title_pos
+2019-06-21 03:17:26,106 : DEBUG : update_title_pos
+2019-06-21 03:17:26,123 : DEBUG : update_title_pos
+2019-06-21 03:17:38,886 : DEBUG : diff parser start
+2019-06-21 03:17:38,886 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 03:17:38,886 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 03:17:38,886 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 03:17:38,886 : DEBUG : diff parser end
+2019-06-21 03:17:39,005 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/numpy/__init__.py
+2019-06-21 03:26:50,696 : DEBUG : diff parser start
+2019-06-21 03:26:50,696 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 03:26:50,696 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 03:26:50,696 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 03:26:50,697 : DEBUG : diff parser end
+2019-06-21 03:26:55,089 : DEBUG : diff parser start
+2019-06-21 03:26:55,089 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 03:26:55,089 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 03:26:55,090 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 03:26:55,090 : DEBUG : diff parser end
+2019-06-21 03:26:55,120 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/sklearn/model_selection/_split.py
+2019-06-21 03:26:59,880 : DEBUG : diff parser start
+2019-06-21 03:26:59,880 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 03:26:59,881 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 03:26:59,881 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 03:26:59,881 : DEBUG : diff parser end
+2019-06-21 03:27:42,664 : DEBUG : diff parser start
+2019-06-21 03:27:42,665 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 03:27:42,665 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 03:27:42,665 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 03:27:42,665 : DEBUG : diff parser end
+2019-06-21 03:28:04,483 : DEBUG : diff parser start
+2019-06-21 03:28:04,484 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 03:28:04,484 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 03:28:04,484 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 03:28:04,484 : DEBUG : diff parser end
+2019-06-21 20:18:30,958 : DEBUG : diff parser start
+2019-06-21 20:18:30,961 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 20:18:30,963 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 20:18:30,965 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 20:18:30,965 : DEBUG : diff parser end
+2019-06-21 20:19:31,461 : DEBUG : diff parser start
+2019-06-21 20:19:31,461 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 20:19:31,461 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 20:19:31,462 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 20:19:31,462 : DEBUG : diff parser end
+2019-06-21 20:19:40,841 : DEBUG : diff parser start
+2019-06-21 20:19:40,841 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 20:19:40,842 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 20:19:40,842 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 20:19:40,842 : DEBUG : diff parser end
+2019-06-21 20:19:41,422 : DEBUG : diff parser start
+2019-06-21 20:19:41,422 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 20:19:41,422 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 20:19:41,422 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 20:19:41,423 : DEBUG : diff parser end
+2019-06-21 20:19:45,039 : DEBUG : diff parser start
+2019-06-21 20:19:45,039 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 20:19:45,040 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 20:19:45,040 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 20:19:45,040 : DEBUG : diff parser end
+2019-06-21 20:24:56,157 : DEBUG : diff parser start
+2019-06-21 20:24:56,157 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 20:24:56,157 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 20:24:56,158 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 20:24:56,158 : DEBUG : diff parser end
+2019-06-21 20:27:47,063 : DEBUG : diff parser start
+2019-06-21 20:27:47,063 : DEBUG : line_lengths old: 1; new: 2
+2019-06-21 20:27:47,063 : DEBUG : -> code[replace] old[1:1] new[1:2]
+2019-06-21 20:27:47,064 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2019-06-21 20:27:47,064 : DEBUG : diff parser end
+2019-06-21 20:27:58,903 : DEBUG : diff parser start
+2019-06-21 20:27:58,904 : DEBUG : line_lengths old: 2; new: 2
+2019-06-21 20:27:58,904 : DEBUG : -> code[equal] old[1:1] new[1:1]
+2019-06-21 20:27:58,904 : DEBUG : copy old[1:1] new[1:1]
+2019-06-21 20:27:58,904 : DEBUG : -> code[replace] old[2:2] new[2:2]
+2019-06-21 20:27:58,905 : DEBUG : parse_part from 2 to 2 (to 1 in part parser)
+2019-06-21 20:27:58,905 : DEBUG : diff parser end
+2019-06-21 20:31:24,173 : DEBUG : diff parser start
+2019-06-21 20:31:24,173 : DEBUG : line_lengths old: 2; new: 1
+2019-06-21 20:31:24,173 : DEBUG : -> code[replace] old[1:2] new[1:1]
+2019-06-21 20:31:24,173 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 20:31:24,173 : DEBUG : diff parser end
+2019-06-21 20:32:32,254 : DEBUG : diff parser start
+2019-06-21 20:32:32,255 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 20:32:32,255 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 20:32:32,255 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 20:32:32,255 : DEBUG : diff parser end
+2019-06-21 20:33:22,348 : DEBUG : diff parser start
+2019-06-21 20:33:22,348 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 20:33:22,349 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 20:33:22,350 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 20:33:22,350 : DEBUG : diff parser end
+2019-06-21 20:33:29,200 : DEBUG : diff parser start
+2019-06-21 20:33:29,200 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 20:33:29,200 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 20:33:29,201 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 20:33:29,201 : DEBUG : diff parser end
+2019-06-21 20:33:41,919 : DEBUG : diff parser start
+2019-06-21 20:33:41,919 : DEBUG : line_lengths old: 1; new: 2
+2019-06-21 20:33:41,919 : DEBUG : -> code[replace] old[1:1] new[1:2]
+2019-06-21 20:33:41,920 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2019-06-21 20:33:41,920 : DEBUG : diff parser end
+2019-06-21 20:34:14,915 : DEBUG : diff parser start
+2019-06-21 20:34:14,915 : DEBUG : line_lengths old: 2; new: 1
+2019-06-21 20:34:14,915 : DEBUG : -> code[replace] old[1:2] new[1:1]
+2019-06-21 20:34:14,916 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 20:34:14,916 : DEBUG : diff parser end
+2019-06-21 20:35:05,500 : DEBUG : diff parser start
+2019-06-21 20:35:05,500 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 20:35:05,500 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 20:35:05,501 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 20:35:05,501 : DEBUG : diff parser end
+2019-06-21 20:36:30,358 : WARNING : No handles with labels found to put in legend.
+2019-06-21 20:36:30,376 : DEBUG : update_title_pos
+2019-06-21 20:36:30,896 : DEBUG : update_title_pos
+2019-06-21 20:36:31,687 : DEBUG : update_title_pos
+2019-06-21 20:36:32,205 : DEBUG : update_title_pos
+2019-06-21 20:36:32,390 : DEBUG : update_title_pos
+2019-06-21 20:41:06,316 : DEBUG : diff parser start
+2019-06-21 20:41:06,323 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 20:41:06,323 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 20:41:06,325 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 20:41:06,325 : DEBUG : diff parser end
+2019-06-21 20:41:06,398 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/sklearn/metrics/classification.py
+2019-06-21 20:41:06,405 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/sklearn/preprocessing/__init__.py
+2019-06-21 20:41:11,172 : DEBUG : diff parser start
+2019-06-21 20:41:11,173 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 20:41:11,173 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 20:41:11,173 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 20:41:11,173 : DEBUG : diff parser end
+2019-06-21 20:41:14,199 : DEBUG : diff parser start
+2019-06-21 20:41:14,199 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 20:41:14,199 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 20:41:14,200 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 20:41:14,200 : DEBUG : diff parser end
+2019-06-21 20:41:16,869 : DEBUG : diff parser start
+2019-06-21 20:41:16,869 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 20:41:16,869 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 20:41:16,870 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 20:41:16,870 : DEBUG : diff parser end
+2019-06-21 20:41:59,976 : DEBUG : diff parser start
+2019-06-21 20:41:59,976 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 20:41:59,976 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 20:41:59,977 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 20:41:59,977 : DEBUG : diff parser end
+2019-06-21 20:42:06,094 : DEBUG : diff parser start
+2019-06-21 20:42:06,094 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 20:42:06,094 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 20:42:06,095 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 20:42:06,095 : DEBUG : diff parser end
+2019-06-21 20:42:13,214 : DEBUG : diff parser start
+2019-06-21 20:42:13,214 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 20:42:13,215 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 20:42:13,215 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 20:42:13,215 : DEBUG : diff parser end
+2019-06-21 20:42:47,033 : WARNING : No handles with labels found to put in legend.
+2019-06-21 20:42:47,042 : DEBUG : update_title_pos
+2019-06-21 20:42:47,378 : DEBUG : update_title_pos
+2019-06-21 20:42:48,062 : DEBUG : update_title_pos
+2019-06-21 20:42:48,585 : DEBUG : update_title_pos
+2019-06-21 20:42:48,819 : DEBUG : update_title_pos
+2019-06-21 20:44:15,271 : DEBUG : diff parser start
+2019-06-21 20:44:15,271 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 20:44:15,271 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 20:44:15,272 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 20:44:15,272 : DEBUG : diff parser end
+2019-06-21 20:44:18,435 : DEBUG : diff parser start
+2019-06-21 20:44:18,435 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 20:44:18,436 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 20:44:18,436 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 20:44:18,437 : DEBUG : diff parser end
+2019-06-21 20:44:22,941 : DEBUG : diff parser start
+2019-06-21 20:44:22,941 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 20:44:22,941 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 20:44:22,941 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 20:44:22,941 : DEBUG : diff parser end
+2019-06-21 20:44:23,558 : DEBUG : diff parser start
+2019-06-21 20:44:23,558 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 20:44:23,558 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 20:44:23,559 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 20:44:23,559 : DEBUG : diff parser end
+2019-06-21 21:26:52,317 : DEBUG : test
+2019-06-21 21:27:11,833 : DEBUG : Fast version of gensim.models.doc2vec is being used
+2019-06-21 21:27:11,847 : INFO : 'pattern' package not found; tag filters are not available for English
+2019-06-21 21:27:12,667 : DEBUG : Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-06-21 21:44:57,607 : DEBUG : diff parser start
+2019-06-21 21:44:57,607 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 21:44:57,607 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 21:44:57,608 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 21:44:57,608 : DEBUG : diff parser end
+2019-06-21 21:45:04,373 : DEBUG : diff parser start
+2019-06-21 21:45:04,373 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 21:45:04,373 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 21:45:04,374 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 21:45:04,374 : DEBUG : diff parser end
+2019-06-21 21:45:04,383 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/__init__.py
+2019-06-21 21:45:04,390 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/io/parquet.py
+2019-06-21 21:45:04,395 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/io/pickle.py
+2019-06-21 21:45:09,371 : DEBUG : diff parser start
+2019-06-21 21:45:09,372 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 21:45:09,372 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 21:45:09,373 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 21:45:09,374 : DEBUG : diff parser end
+2019-06-21 21:45:19,906 : DEBUG : diff parser start
+2019-06-21 21:45:19,906 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 21:45:19,906 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 21:45:19,907 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 21:45:19,907 : DEBUG : diff parser end
+2019-06-21 21:45:47,309 : DEBUG : diff parser start
+2019-06-21 21:45:47,309 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 21:45:47,309 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 21:45:47,309 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 21:45:47,309 : DEBUG : diff parser end
+2019-06-21 21:45:48,614 : DEBUG : diff parser start
+2019-06-21 21:45:48,615 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 21:45:48,615 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 21:45:48,615 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 21:45:48,615 : DEBUG : diff parser end
+2019-06-21 21:48:00,992 : WARNING : No handles with labels found to put in legend.
+2019-06-21 21:48:00,999 : DEBUG : update_title_pos
+2019-06-21 21:48:01,006 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=13.2 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000.
+2019-06-21 21:48:01,249 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=30.0 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000.
+2019-06-21 21:48:01,326 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=14.399999999999999 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000.
+2019-06-21 21:48:01,331 : DEBUG : update_title_pos
+2019-06-21 21:48:01,715 : DEBUG : update_title_pos
+2019-06-21 21:48:02,321 : DEBUG : update_title_pos
+2019-06-21 21:48:02,514 : DEBUG : update_title_pos
+2019-06-21 21:54:07,481 : DEBUG : diff parser start
+2019-06-21 21:54:07,481 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 21:54:07,481 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 21:54:07,482 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 21:54:07,482 : DEBUG : diff parser end
+2019-06-21 21:54:07,568 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/core/frame.py
+2019-06-21 21:54:12,398 : DEBUG : diff parser start
+2019-06-21 21:54:12,398 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 21:54:12,398 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 21:54:12,398 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 21:54:12,398 : DEBUG : diff parser end
+2019-06-21 21:54:16,757 : DEBUG : diff parser start
+2019-06-21 21:54:16,758 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 21:54:16,758 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 21:54:16,758 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 21:54:16,758 : DEBUG : diff parser end
+2019-06-21 21:54:16,913 : DEBUG : diff parser start
+2019-06-21 21:54:16,913 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 21:54:16,913 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 21:54:16,913 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 21:54:16,913 : DEBUG : diff parser end
+2019-06-21 21:54:22,495 : DEBUG : diff parser start
+2019-06-21 21:54:22,495 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 21:54:22,496 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 21:54:22,496 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 21:54:22,496 : DEBUG : diff parser end
+2019-06-21 21:54:23,135 : DEBUG : diff parser start
+2019-06-21 21:54:23,135 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 21:54:23,135 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 21:54:23,136 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 21:54:23,137 : DEBUG : diff parser end
+2019-06-21 22:35:46,780 : WARNING : No handles with labels found to put in legend.
+2019-06-21 22:35:46,799 : DEBUG : update_title_pos
+2019-06-21 22:35:47,238 : DEBUG : update_title_pos
+2019-06-21 22:35:47,964 : DEBUG : update_title_pos
+2019-06-21 22:35:48,863 : DEBUG : update_title_pos
+2019-06-21 22:35:49,427 : DEBUG : update_title_pos
+2019-06-21 22:53:11,045 : ERROR : Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-06-21 22:53:11,051 : ERROR : Invalid alias: The name more can't be aliased because it is another magic command.
+2019-06-21 22:53:11,052 : ERROR : Invalid alias: The name less can't be aliased because it is another magic command.
+2019-06-21 22:53:11,052 : ERROR : Invalid alias: The name man can't be aliased because it is another magic command.
+2019-06-21 22:53:17,592 : DEBUG : test
+2019-06-21 22:53:25,483 : DEBUG : Fast version of gensim.models.doc2vec is being used
+2019-06-21 22:53:25,495 : INFO : 'pattern' package not found; tag filters are not available for English
+2019-06-21 22:53:26,250 : DEBUG : Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-06-21 22:55:12,300 : DEBUG : Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-06-21 23:07:25,523 : WARNING : No handles with labels found to put in legend.
+2019-06-21 23:07:25,534 : DEBUG : update_title_pos
+2019-06-21 23:07:25,539 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=13.2 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000.
+2019-06-21 23:07:25,864 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=30.0 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000.
+2019-06-21 23:07:25,925 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=14.399999999999999 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000.
+2019-06-21 23:07:25,930 : DEBUG : update_title_pos
+2019-06-21 23:07:26,499 : DEBUG : update_title_pos
+2019-06-21 23:07:27,092 : DEBUG : update_title_pos
+2019-06-21 23:07:27,331 : DEBUG : update_title_pos
+2019-06-21 23:12:52,298 : DEBUG : diff parser start
+2019-06-21 23:12:52,298 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 23:12:52,298 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 23:12:52,299 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 23:12:52,299 : DEBUG : diff parser end
+2019-06-21 23:12:52,321 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/numpy/__init__.py
+2019-06-21 23:13:04,363 : DEBUG : diff parser start
+2019-06-21 23:13:04,363 : DEBUG : line_lengths old: 1; new: 1
+2019-06-21 23:13:04,363 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-21 23:13:04,364 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-21 23:13:04,364 : DEBUG : diff parser end
+2019-06-21 23:13:04,447 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/core/frame.py
+2019-06-21 23:13:50,897 : ERROR : Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-06-21 23:13:50,897 : ERROR : Invalid alias: The name more can't be aliased because it is another magic command.
+2019-06-21 23:13:50,897 : ERROR : Invalid alias: The name less can't be aliased because it is another magic command.
+2019-06-21 23:13:50,897 : ERROR : Invalid alias: The name man can't be aliased because it is another magic command.
+2019-06-21 23:14:27,498 : DEBUG : test
+2019-06-21 23:14:32,791 : DEBUG : Fast version of gensim.models.doc2vec is being used
+2019-06-21 23:14:32,803 : INFO : 'pattern' package not found; tag filters are not available for English
+2019-06-21 23:14:33,356 : DEBUG : Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-06-21 23:16:49,269 : WARNING : No handles with labels found to put in legend.
+2019-06-21 23:16:49,273 : DEBUG : update_title_pos
+2019-06-21 23:16:49,277 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=13.2 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000.
+2019-06-21 23:16:49,557 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=30.0 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000.
+2019-06-21 23:16:49,629 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=14.399999999999999 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000.
+2019-06-21 23:16:49,635 : DEBUG : update_title_pos
+2019-06-21 23:16:50,008 : DEBUG : update_title_pos
+2019-06-21 23:16:50,550 : DEBUG : update_title_pos
+2019-06-21 23:16:50,723 : DEBUG : update_title_pos
+2019-06-22 21:34:39,437 : ERROR : Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-06-22 21:34:39,438 : ERROR : Invalid alias: The name more can't be aliased because it is another magic command.
+2019-06-22 21:34:39,438 : ERROR : Invalid alias: The name less can't be aliased because it is another magic command.
+2019-06-22 21:34:39,438 : ERROR : Invalid alias: The name man can't be aliased because it is another magic command.
+2019-06-22 21:35:00,585 : DEBUG : test
+2019-06-22 21:35:09,903 : DEBUG : Fast version of gensim.models.doc2vec is being used
+2019-06-22 21:35:09,916 : INFO : 'pattern' package not found; tag filters are not available for English
+2019-06-22 21:35:10,808 : DEBUG : Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-06-22 21:40:21,589 : WARNING : No handles with labels found to put in legend.
+2019-06-22 21:40:21,603 : DEBUG : update_title_pos
+2019-06-22 21:40:21,611 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=13.2 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000.
+2019-06-22 21:40:22,052 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=30.0 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000.
+2019-06-22 21:40:22,124 : DEBUG : findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=14.399999999999999 to Arial ('/Library/Fonts/Arial.ttf') with score of 0.050000.
+2019-06-22 21:40:22,132 : DEBUG : update_title_pos
+2019-06-22 21:40:22,698 : DEBUG : update_title_pos
+2019-06-22 21:40:23,172 : DEBUG : update_title_pos
+2019-06-22 21:40:23,370 : DEBUG : update_title_pos
+2019-06-23 04:47:57,444 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/__init__.py
+2019-06-23 04:47:58,049 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/core/frame.py
+2019-06-23 04:47:58,267 : DEBUG : diff parser start
+2019-06-23 04:47:58,267 : DEBUG : line_lengths old: 1; new: 1
+2019-06-23 04:47:58,267 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-23 04:47:58,268 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-23 04:47:58,268 : DEBUG : diff parser end
+2019-06-23 04:49:22,921 : DEBUG : diff parser start
+2019-06-23 04:49:22,921 : DEBUG : line_lengths old: 1; new: 1
+2019-06-23 04:49:22,921 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-23 04:49:22,922 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-23 04:49:22,922 : DEBUG : diff parser end
+2019-06-23 04:49:36,859 : DEBUG : diff parser start
+2019-06-23 04:49:36,859 : DEBUG : line_lengths old: 1; new: 1
+2019-06-23 04:49:36,859 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-23 04:49:36,859 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-23 04:49:36,860 : DEBUG : diff parser end
+2019-06-23 04:49:43,803 : DEBUG : diff parser start
+2019-06-23 04:49:43,803 : DEBUG : line_lengths old: 1; new: 1
+2019-06-23 04:49:43,803 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-23 04:49:43,804 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-23 04:49:43,804 : DEBUG : diff parser end
+2019-06-23 04:56:21,126 : WARNING : No handles with labels found to put in legend.
+2019-06-23 04:56:21,144 : DEBUG : update_title_pos
+2019-06-23 04:56:21,614 : DEBUG : update_title_pos
+2019-06-23 04:56:22,617 : DEBUG : update_title_pos
+2019-06-23 04:56:23,102 : DEBUG : update_title_pos
+2019-06-23 04:56:23,302 : DEBUG : update_title_pos
+2019-06-23 05:02:56,446 : WARNING : No handles with labels found to put in legend.
+2019-06-23 05:02:56,459 : DEBUG : update_title_pos
+2019-06-23 05:02:56,498 : DEBUG : update_title_pos
+2019-06-23 05:02:56,796 : DEBUG : update_title_pos
+2019-06-23 05:02:56,813 : DEBUG : update_title_pos
+2019-06-23 05:02:56,837 : DEBUG : update_title_pos
+2019-06-23 07:25:46,332 : DEBUG : diff parser start
+2019-06-23 07:25:46,338 : DEBUG : line_lengths old: 1; new: 1
+2019-06-23 07:25:46,338 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-23 07:25:46,339 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-23 07:25:46,339 : DEBUG : diff parser end
+2019-06-23 07:28:19,813 : DEBUG : diff parser start
+2019-06-23 07:28:19,821 : DEBUG : line_lengths old: 1; new: 1
+2019-06-23 07:28:19,821 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-23 07:28:19,824 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-23 07:28:19,825 : DEBUG : diff parser end
+2019-06-23 07:28:19,883 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/sklearn/metrics/classification.py
+2019-06-23 07:28:19,889 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/sklearn/preprocessing/__init__.py
+2019-06-23 07:28:23,525 : DEBUG : diff parser start
+2019-06-23 07:28:23,525 : DEBUG : line_lengths old: 1; new: 1
+2019-06-23 07:28:23,526 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-23 07:28:23,526 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-23 07:28:23,526 : DEBUG : diff parser end
+2019-06-23 07:55:33,622 : DEBUG : diff parser start
+2019-06-23 07:55:33,625 : DEBUG : line_lengths old: 1; new: 1
+2019-06-23 07:55:33,625 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-23 07:55:33,628 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-23 07:55:33,629 : DEBUG : diff parser end
+2019-06-23 07:57:53,015 : DEBUG : diff parser start
+2019-06-23 07:57:53,016 : DEBUG : line_lengths old: 1; new: 1
+2019-06-23 07:57:53,016 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-23 07:57:53,017 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-23 07:57:53,017 : DEBUG : diff parser end
+2019-06-23 08:00:53,046 : DEBUG : diff parser start
+2019-06-23 08:00:53,052 : DEBUG : line_lengths old: 1; new: 1
+2019-06-23 08:00:53,052 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-23 08:00:53,053 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-23 08:00:53,053 : DEBUG : diff parser end
+2019-06-23 08:00:54,017 : DEBUG : diff parser start
+2019-06-23 08:00:54,017 : DEBUG : line_lengths old: 1; new: 1
+2019-06-23 08:00:54,017 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-23 08:00:54,018 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-23 08:00:54,018 : DEBUG : diff parser end
+2019-06-23 08:00:59,137 : DEBUG : diff parser start
+2019-06-23 08:00:59,137 : DEBUG : line_lengths old: 1; new: 1
+2019-06-23 08:00:59,137 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-23 08:00:59,137 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-23 08:00:59,138 : DEBUG : diff parser end
+2019-06-23 08:01:07,987 : DEBUG : diff parser start
+2019-06-23 08:01:07,987 : DEBUG : line_lengths old: 1; new: 1
+2019-06-23 08:01:07,987 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-23 08:01:07,987 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-23 08:01:07,987 : DEBUG : diff parser end
+2019-06-23 08:01:08,903 : DEBUG : diff parser start
+2019-06-23 08:01:08,903 : DEBUG : line_lengths old: 1; new: 1
+2019-06-23 08:01:08,903 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-23 08:01:08,904 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-23 08:01:08,904 : DEBUG : diff parser end
+2019-06-23 08:01:09,486 : DEBUG : diff parser start
+2019-06-23 08:01:09,487 : DEBUG : line_lengths old: 1; new: 1
+2019-06-23 08:01:09,487 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-23 08:01:09,487 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-23 08:01:09,487 : DEBUG : diff parser end
+2019-06-23 08:01:10,425 : DEBUG : diff parser start
+2019-06-23 08:01:10,425 : DEBUG : line_lengths old: 1; new: 1
+2019-06-23 08:01:10,425 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-23 08:01:10,425 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-23 08:01:10,425 : DEBUG : diff parser end
+2019-06-23 08:07:07,271 : DEBUG : diff parser start
+2019-06-23 08:07:07,271 : DEBUG : line_lengths old: 1; new: 1
+2019-06-23 08:07:07,271 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-23 08:07:07,271 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-23 08:07:07,272 : DEBUG : diff parser end
+2019-06-23 08:07:09,019 : DEBUG : diff parser start
+2019-06-23 08:07:09,020 : DEBUG : line_lengths old: 1; new: 1
+2019-06-23 08:07:09,020 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-23 08:07:09,020 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-23 08:07:09,020 : DEBUG : diff parser end
+2019-06-23 08:09:10,671 : DEBUG : diff parser start
+2019-06-23 08:09:10,677 : DEBUG : line_lengths old: 1; new: 1
+2019-06-23 08:09:10,677 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-23 08:09:10,678 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-23 08:09:10,678 : DEBUG : diff parser end
+2019-06-23 08:09:50,849 : DEBUG : diff parser start
+2019-06-23 08:09:50,850 : DEBUG : line_lengths old: 1; new: 1
+2019-06-23 08:09:50,850 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-23 08:09:50,850 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-23 08:09:50,850 : DEBUG : diff parser end
+2019-06-23 08:09:58,866 : DEBUG : diff parser start
+2019-06-23 08:09:58,866 : DEBUG : line_lengths old: 1; new: 1
+2019-06-23 08:09:58,866 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-23 08:09:58,867 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-23 08:09:58,867 : DEBUG : diff parser end
+2019-06-23 08:09:59,434 : DEBUG : diff parser start
+2019-06-23 08:09:59,434 : DEBUG : line_lengths old: 1; new: 1
+2019-06-23 08:09:59,434 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-23 08:09:59,435 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-23 08:09:59,435 : DEBUG : diff parser end
+2019-06-23 08:09:59,496 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/pandas/core/series.py
+2019-06-23 08:10:01,387 : DEBUG : diff parser start
+2019-06-23 08:10:01,388 : DEBUG : line_lengths old: 1; new: 1
+2019-06-23 08:10:01,388 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-23 08:10:01,388 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-23 08:10:01,388 : DEBUG : diff parser end
+2019-06-23 08:10:04,791 : DEBUG : diff parser start
+2019-06-23 08:10:04,791 : DEBUG : line_lengths old: 1; new: 1
+2019-06-23 08:10:04,791 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-23 08:10:04,792 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-23 08:10:04,792 : DEBUG : diff parser end
+2019-06-23 08:10:17,385 : DEBUG : diff parser start
+2019-06-23 08:10:17,385 : DEBUG : line_lengths old: 1; new: 1
+2019-06-23 08:10:17,385 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-23 08:10:17,386 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-23 08:10:17,386 : DEBUG : diff parser end
+2019-06-23 08:10:21,437 : DEBUG : diff parser start
+2019-06-23 08:10:21,437 : DEBUG : line_lengths old: 1; new: 2
+2019-06-23 08:10:21,438 : DEBUG : -> code[replace] old[1:1] new[1:2]
+2019-06-23 08:10:21,438 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2019-06-23 08:10:21,438 : DEBUG : diff parser end
+2019-06-23 08:10:42,538 : DEBUG : diff parser start
+2019-06-23 08:10:42,538 : DEBUG : line_lengths old: 2; new: 2
+2019-06-23 08:10:42,538 : DEBUG : -> code[equal] old[1:1] new[1:1]
+2019-06-23 08:10:42,539 : DEBUG : copy old[1:1] new[1:1]
+2019-06-23 08:10:42,539 : DEBUG : -> code[replace] old[2:2] new[2:2]
+2019-06-23 08:10:42,539 : DEBUG : parse_part from 2 to 2 (to 1 in part parser)
+2019-06-23 08:10:42,539 : DEBUG : diff parser end
+2019-06-23 08:11:03,836 : DEBUG : diff parser start
+2019-06-23 08:11:03,836 : DEBUG : line_lengths old: 2; new: 1
+2019-06-23 08:11:03,836 : DEBUG : -> code[replace] old[1:2] new[1:1]
+2019-06-23 08:11:03,837 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-23 08:11:03,837 : DEBUG : diff parser end
+2019-06-23 08:11:46,170 : DEBUG : diff parser start
+2019-06-23 08:11:46,170 : DEBUG : line_lengths old: 1; new: 1
+2019-06-23 08:11:46,170 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-23 08:11:46,170 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-23 08:11:46,170 : DEBUG : diff parser end
+2019-06-23 08:11:46,194 : DEBUG : pickle loaded: /anaconda/lib/python3.6/site-packages/numpy/__init__.py
+2019-06-23 08:12:08,603 : DEBUG : diff parser start
+2019-06-23 08:12:08,603 : DEBUG : line_lengths old: 1; new: 1
+2019-06-23 08:12:08,603 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-23 08:12:08,604 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-23 08:12:08,604 : DEBUG : diff parser end
+2019-06-23 08:12:11,434 : DEBUG : diff parser start
+2019-06-23 08:12:11,434 : DEBUG : line_lengths old: 1; new: 1
+2019-06-23 08:12:11,434 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-23 08:12:11,434 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-23 08:12:11,434 : DEBUG : diff parser end
+2019-06-23 08:12:12,000 : DEBUG : diff parser start
+2019-06-23 08:12:12,000 : DEBUG : line_lengths old: 1; new: 1
+2019-06-23 08:12:12,000 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-23 08:12:12,001 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-23 08:12:12,001 : DEBUG : diff parser end
+2019-06-23 08:12:39,682 : WARNING : No handles with labels found to put in legend.
+2019-06-23 08:12:39,699 : DEBUG : update_title_pos
+2019-06-23 08:12:39,729 : DEBUG : update_title_pos
+2019-06-23 08:12:40,008 : DEBUG : update_title_pos
+2019-06-23 08:12:40,024 : DEBUG : update_title_pos
+2019-06-23 08:12:40,051 : DEBUG : update_title_pos
+2019-06-23 08:13:00,330 : DEBUG : diff parser start
+2019-06-23 08:13:00,330 : DEBUG : line_lengths old: 1; new: 1
+2019-06-23 08:13:00,330 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-23 08:13:00,332 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-23 08:13:00,333 : DEBUG : diff parser end
+2019-06-23 08:13:02,197 : WARNING : No handles with labels found to put in legend.
+2019-06-23 08:13:02,205 : DEBUG : update_title_pos
+2019-06-23 08:13:02,240 : DEBUG : update_title_pos
+2019-06-23 08:13:02,516 : DEBUG : update_title_pos
+2019-06-23 08:13:02,534 : DEBUG : update_title_pos
+2019-06-23 08:13:02,559 : DEBUG : update_title_pos
+2019-06-23 08:13:15,641 : DEBUG : diff parser start
+2019-06-23 08:13:15,641 : DEBUG : line_lengths old: 1; new: 1
+2019-06-23 08:13:15,641 : DEBUG : -> code[replace] old[1:1] new[1:1]
+2019-06-23 08:13:15,642 : DEBUG : parse_part from 1 to 1 (to 0 in part parser)
+2019-06-23 08:13:15,642 : DEBUG : diff parser end
+2019-06-23 08:13:20,031 : DEBUG : diff parser start
+2019-06-23 08:13:20,031 : DEBUG : line_lengths old: 1; new: 2
+2019-06-23 08:13:20,031 : DEBUG : -> code[replace] old[1:1] new[1:2]
+2019-06-23 08:13:20,032 : DEBUG : parse_part from 1 to 2 (to 1 in part parser)
+2019-06-23 08:13:20,033 : DEBUG : diff parser end
+2019-06-23 08:13:52,594 : WARNING : No handles with labels found to put in legend.
+2019-06-23 08:13:52,611 : DEBUG : update_title_pos
+2019-06-23 08:13:52,971 : DEBUG : update_title_pos
+2019-06-23 08:13:53,705 : DEBUG : update_title_pos
+2019-06-23 08:13:54,179 : DEBUG : update_title_pos
+2019-06-23 08:13:54,366 : DEBUG : update_title_pos
+2019-06-23 10:38:08,513 : WARNING : No handles with labels found to put in legend.
+2019-06-23 10:38:08,529 : DEBUG : update_title_pos
+2019-06-23 10:38:08,846 : DEBUG : update_title_pos
+2019-06-23 10:38:09,509 : DEBUG : update_title_pos
+2019-06-23 10:38:10,014 : DEBUG : update_title_pos
+2019-06-23 10:38:10,372 : DEBUG : update_title_pos
+2019-06-30 02:56:15,462 : ERROR : Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-06-30 02:56:15,462 : ERROR : Invalid alias: The name more can't be aliased because it is another magic command.
+2019-06-30 02:56:15,462 : ERROR : Invalid alias: The name less can't be aliased because it is another magic command.
+2019-06-30 02:56:15,462 : ERROR : Invalid alias: The name man can't be aliased because it is another magic command.
